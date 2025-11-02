@@ -1,0 +1,2141 @@
+[
+  {
+    "shot_info": {
+      "shot_number": 1,
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 3.002857199517779,
+      "duration_seconds": 3.002857199517779
+    },
+    "metadata": {
+      "ShotDescription": "A completely black image with no visible content or details.",
+      "GenreCues": [
+        {
+          "genre_hint": "darkness",
+          "prominence_in_shot": "100%"
+        }
+      ],
+      "SubgenreCues": [
+        "blackout",
+        "void",
+        "absence"
+      ],
+      "AdjectiveTheme": [
+        "black",
+        "void",
+        "empty"
+      ],
+      "Mood": [
+        "mysterious",
+        "silent",
+        "absent"
+      ],
+      "SettingContext": [
+        "no setting",
+        "no environment"
+      ],
+      "ContentDescriptors": [
+        "black",
+        "void",
+        "empty"
+      ],
+      "LocationHints_Regional": [
+        "no location"
+      ],
+      "LocationHints_International": [
+        "no location"
+      ],
+      "SearchKeywords": [
+        "black",
+        "void",
+        "empty",
+        "darkness",
+        "absence"
+      ],
+      "frame_number": 1,
+      "frame_time": 0.0,
+      "additional_frames": [
+        {
+          "ShotDescription": "The image displays the \"Sony Pictures Animation\" logo in a stylized, glowing white font against a dark blue background.",
+          "frame_number": 2,
+          "frame_time": 1.5014285997588894
+        },
+        {
+          "ShotDescription": "A dark screen displays the \"SONY PICTURES ANIMATION\" logo in a stylized, three-dimensional font.",
+          "frame_number": 3,
+          "frame_time": 3.002857199517779
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 35.184797048568726,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 2,
+      "start_time_seconds": 3.002857199517779,
+      "end_time_seconds": 20.1024606967718,
+      "duration_seconds": 17.099603497254023
+    },
+    "metadata": {
+      "ShotDescription": "A dark, minimalist screen displaying the 'SONY PICTURES ANIMATION' logo in a stylized, three-dimensional font against a black background.",
+      "GenreCues": [
+        {
+          "genre_hint": "animation",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animation",
+        "studio logo"
+      ],
+      "AdjectiveTheme": [
+        "dark",
+        "minimalist",
+        "modern"
+      ],
+      "Mood": [
+        "serious",
+        "professional",
+        "intense"
+      ],
+      "SettingContext": [
+        "a digital screen or title card"
+      ],
+      "ContentDescriptors": [
+        "SONY PICTURES ANIMATION",
+        "logo",
+        "text",
+        "black background"
+      ],
+      "LocationHints_Regional": [
+        "United States"
+      ],
+      "LocationHints_International": [
+        "global"
+      ],
+      "SearchKeywords": [
+        "Sony Pictures Animation",
+        "logo",
+        "animation studio",
+        "dark background",
+        "text"
+      ],
+      "frame_number": 1,
+      "frame_time": 3.002857199517779,
+      "additional_frames": [
+        {
+          "ShotDescription": "A blue wall covered in various children's drawings and photos of diverse people, including a purple unicorn on a calendar, with a gold-framed mirror partially visible at the bottom right.",
+          "frame_number": 2,
+          "frame_time": 7.277758073831285
+        },
+        {
+          "ShotDescription": "A vibrant, childlike wall adorned with drawings of diverse people, a large \"Hair Love\" title, and a mirror, evoking a sense of creativity and personal expression.",
+          "frame_number": 3,
+          "frame_time": 11.55265894814479
+        },
+        {
+          "ShotDescription": "A light blue wall decorated with a purple unicorn drawing, a calendar with a heart mark, several portraits, and a star-shaped mirror.",
+          "frame_number": 4,
+          "frame_time": 15.827559822458296
+        },
+        {
+          "ShotDescription": "A close-up of a character's head peeking over a large pink blanket, with a brown hair bun and a pink polka-dotted hat, against a green and yellow background.",
+          "frame_number": 5,
+          "frame_time": 20.1024606967718
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 49.94969415664673,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 3,
+      "start_time_seconds": 20.1024606967718,
+      "end_time_seconds": 25.1489290459614,
+      "duration_seconds": 5.046468349189599
+    },
+    "metadata": {
+      "ShotDescription": "A close-up of a character with brown hair and a pink polka-dotted hat, partially obscured by a large pink blanket, lying on a bed with a green and yellow background.",
+      "GenreCues": [
+        {
+          "genre_hint": "animated",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated film",
+        "character animation",
+        "sleeping scene"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "pastel",
+        "dreamy"
+      ],
+      "Mood": [
+        "peaceful",
+        "dreamy",
+        "relaxing"
+      ],
+      "SettingContext": [
+        "bedroom",
+        "bed",
+        "sleeping"
+      ],
+      "ContentDescriptors": [
+        "character",
+        "hair",
+        "hat",
+        "blanket",
+        "bed",
+        "background"
+      ],
+      "LocationHints_Regional": [
+        "North America"
+      ],
+      "LocationHints_International": [
+        "Europe"
+      ],
+      "SearchKeywords": [
+        "animated character",
+        "sleeping",
+        "pink blanket",
+        "polka dot hat",
+        "bedroom"
+      ],
+      "frame_number": 1,
+      "frame_time": 20.1024606967718,
+      "additional_frames": [
+        {
+          "ShotDescription": "A black paw rests on a soft, pink blanket, with a character's head peeking out from behind it in a scene of gentle, peaceful rest.",
+          "frame_number": 2,
+          "frame_time": 21.784616813168334
+        },
+        {
+          "ShotDescription": "A young animated girl with a pink polka-dot bonnet is yawning widely, her eyes closed and hands clasped near her mouth.",
+          "frame_number": 3,
+          "frame_time": 23.466772929564865
+        },
+        {
+          "ShotDescription": "A close-up of a young animated girl with a surprised expression, wearing a pink polka-dot headband and looking upwards.",
+          "frame_number": 4,
+          "frame_time": 25.1489290459614
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 42.92522597312927,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 4,
+      "start_time_seconds": 25.1489290459614,
+      "end_time_seconds": 26.400119545760475,
+      "duration_seconds": 1.2511904997990762
+    },
+    "metadata": {
+      "ShotDescription": "A close-up of a grey cat with green eyes and a stern expression, looking directly at the viewer, with a round, metallic object resembling a watch face or a small mirror to the right.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "character-focused",
+        "mood-driven"
+      ],
+      "AdjectiveTheme": [
+        "angry",
+        "serious",
+        "intense"
+      ],
+      "Mood": [
+        "intense",
+        "confrontational",
+        "determined"
+      ],
+      "SettingContext": "The background is a plain, light-colored surface with a subtle texture, suggesting an indoor setting.",
+      "ContentDescriptors": [
+        "cat",
+        "grey",
+        "green eyes",
+        "stern expression",
+        "watch face",
+        "metallic object",
+        "close-up",
+        "animated"
+      ],
+      "LocationHints_Regional": [
+        "likely a domestic interior"
+      ],
+      "LocationHints_International": [
+        "likely a domestic interior"
+      ],
+      "SearchKeywords": [
+        "cat",
+        "animated",
+        "watch face",
+        "close-up",
+        "green eyes",
+        "stern expression",
+        "metallic object"
+      ],
+      "frame_number": 1,
+      "frame_time": 25.1489290459614,
+      "additional_frames": [
+        {
+          "ShotDescription": "A grey cartoon cat with green eyes and a fierce expression is shown with its mouth open, as if roaring or growling, while a round, rusted object is visible to its right.",
+          "frame_number": 2,
+          "frame_time": 25.774524295860935
+        },
+        {
+          "ShotDescription": "A grey cartoon cat with green eyes stares intensely at a small, round, light-colored object with a dark center.",
+          "frame_number": 3,
+          "frame_time": 26.400119545760475
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 37.74154329299927,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 5,
+      "start_time_seconds": 26.400119545760475,
+      "end_time_seconds": 33.32337364464869,
+      "duration_seconds": 6.923254098888215
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a pink polka-dotted bonnet lies in bed, looking up at a grey cat sitting on the bed beside her, with sunlight streaming through a window behind them.",
+      "GenreCues": [
+        {
+          "genre_hint": "animation",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated film",
+        "children's animation",
+        "fantasy",
+        "storyboard"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "gentle",
+        "calm",
+        "warm"
+      ],
+      "Mood": [
+        "peaceful",
+        "quiet",
+        "endearing",
+        "cute"
+      ],
+      "SettingContext": [
+        "a bedroom",
+        "a bed",
+        "a window",
+        "a lamp"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "cat",
+        "bed",
+        "bonnet",
+        "window",
+        "sunlight",
+        "lamp",
+        "bedspread",
+        "wall"
+      ],
+      "LocationHints_Regional": [
+        "North America",
+        "Europe"
+      ],
+      "LocationHints_International": [
+        "United States",
+        "United Kingdom",
+        "Canada"
+      ],
+      "SearchKeywords": [
+        "animation",
+        "children's",
+        "cat",
+        "girl",
+        "bed",
+        "bonnet",
+        "sunlight",
+        "window",
+        "bedspread"
+      ],
+      "frame_number": 1,
+      "frame_time": 26.400119545760475,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl in a pink polka-dot bonnet sits on her bed, smiling as she looks at a grumpy-looking gray cat.",
+          "frame_number": 2,
+          "frame_time": 28.707870912056546
+        },
+        {
+          "ShotDescription": "A young girl with a pink polka-dot bonnet is peacefully sleeping on her bed, cuddling a grey cat with a white chest and a slightly annoyed expression.",
+          "frame_number": 3,
+          "frame_time": 31.01562227835262
+        },
+        {
+          "ShotDescription": "A young girl with a pink polka-dotted headband is sitting on a bed, holding a grumpy-looking grey cat, while a bright window illuminates the room.",
+          "frame_number": 4,
+          "frame_time": 33.32337364464869
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 68.84314179420471,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 6,
+      "start_time_seconds": 33.32337364464869,
+      "end_time_seconds": 34.032381594534826,
+      "duration_seconds": 0.7090079498861357
+    },
+    "metadata": {
+      "ShotDescription": "A close-up shot of a grey cat with a pink polka-dotted hat, looking at a window with a drawing of a purple unicorn and a calendar with a heart drawn on it.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, painterly style with visible brushstrokes and a dreamy, illustrative quality."
+        }
+      ],
+      "SubgenreCues": [
+        "animation",
+        "children's story",
+        "fantasy",
+        "emotional scene"
+      ],
+      "AdjectiveTheme": [
+        "dreamy",
+        "soft",
+        "gentle",
+        "calm"
+      ],
+      "Mood": [
+        "reflective",
+        "sweet",
+        "dreamy",
+        "emotional"
+      ],
+      "SettingContext": [
+        "a bedroom",
+        "a window",
+        "a wall"
+      ],
+      "ContentDescriptors": [
+        "cat",
+        "hat",
+        "window",
+        "unicorn",
+        "calendar",
+        "heart",
+        "painterly style",
+        "illustration"
+      ],
+      "LocationHints_Regional": [
+        "a bedroom in a home"
+      ],
+      "LocationHints_International": [
+        "a bedroom in a home"
+      ],
+      "SearchKeywords": [
+        "cat",
+        "hat",
+        "unicorn",
+        "calendar",
+        "dream",
+        "illustration",
+        "animation",
+        "bedroom",
+        "window"
+      ],
+      "frame_number": 1,
+      "frame_time": 33.32337364464869,
+      "additional_frames": [
+        {
+          "ShotDescription": "A grey cat with a pink polka-dot hat is looking at a drawing of a purple unicorn in a window, with a heart drawn on a calendar below it.",
+          "frame_number": 2,
+          "frame_time": 33.677877619591754
+        },
+        {
+          "ShotDescription": "A grey cat with a pink polka-dot hat is looking at a window with a drawing of a purple unicorn and a calendar with a red heart.",
+          "frame_number": 3,
+          "frame_time": 34.032381594534826
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 41.18578600883484,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 7,
+      "start_time_seconds": 34.032381594534826,
+      "end_time_seconds": 35.95087369422674,
+      "duration_seconds": 1.9184920996919175
+    },
+    "metadata": {
+      "ShotDescription": "A blurry, fast-moving scene featuring a character with a purple mane and a pink and white outfit, possibly a pony, in a room with a window showing a grid pattern and a heart symbol, while a dark silhouette of a figure is in motion on the right.",
+      "GenreCues": [
+        {
+          "genre_hint": "animation",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "action",
+        "dramatic",
+        "dynamic"
+      ],
+      "AdjectiveTheme": [
+        "blurry",
+        "fast-moving",
+        "intense"
+      ],
+      "Mood": [
+        "tense",
+        "urgent",
+        "confusing"
+      ],
+      "SettingContext": [
+        "a room with a window",
+        "a grid-patterned window",
+        "a heart symbol on the window"
+      ],
+      "ContentDescriptors": [
+        "a character with a purple mane",
+        "a pink and white outfit",
+        "a dark silhouette",
+        "a window with a grid pattern",
+        "a heart symbol",
+        "a blurry motion effect"
+      ],
+      "LocationHints_Regional": [
+        "a room with a window"
+      ],
+      "LocationHints_International": [
+        "a room with a window"
+      ],
+      "SearchKeywords": [
+        "animation",
+        "purple mane",
+        "heart symbol",
+        "blurry motion",
+        "window",
+        "dark silhouette"
+      ],
+      "frame_number": 1,
+      "frame_time": 34.032381594534826,
+      "additional_frames": [
+        {
+          "ShotDescription": "A hand-drawn calendar for March is shown with red X's marking the days, except for a single heart symbol on Thursday, suggesting a moment of love or a break in the routine.",
+          "frame_number": 2,
+          "frame_time": 34.991627644380785
+        },
+        {
+          "ShotDescription": "A hand-drawn calendar for March shows red X's marking the days, with a single heart symbol on Thursday, suggesting a love note or a significant event.",
+          "frame_number": 3,
+          "frame_time": 35.95087369422674
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 41.268296241760254,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 8,
+      "start_time_seconds": 35.95087369422674,
+      "end_time_seconds": 38.5366673938115,
+      "duration_seconds": 2.5857936995847552
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a pink polka-dotted bonnet and pink pajamas sits on a bed, reaching out to a grumpy-looking gray cat with white markings on its chest and paws, in a brightly lit bedroom with a window letting in sunlight.",
+      "GenreCues": [
+        {
+          "genre_hint": "animation",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "children's animation",
+        "cartoon",
+        "animated film"
+      ],
+      "AdjectiveTheme": [
+        "cute",
+        "grumpy",
+        "sad",
+        "mildly annoyed"
+      ],
+      "Mood": [
+        "tense",
+        "conflicted",
+        "worried",
+        "playful"
+      ],
+      "SettingContext": [
+        "bedroom",
+        "child's room",
+        "daytime",
+        "sunlit"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "cat",
+        "bed",
+        "pajamas",
+        "bonnet",
+        "window",
+        "sunlight",
+        "bedding",
+        "lamp",
+        "pillow",
+        "colorful bedding"
+      ],
+      "LocationHints_Regional": [
+        "North America"
+      ],
+      "LocationHints_International": [
+        "Europe"
+      ],
+      "SearchKeywords": [
+        "children's animation",
+        "cartoon",
+        "animated film",
+        "girl",
+        "cat",
+        "bedroom",
+        "sunlight",
+        "pajamas",
+        "bonnet",
+        "grumpy cat",
+        "child"
+      ],
+      "frame_number": 1,
+      "frame_time": 35.95087369422674,
+      "additional_frames": [
+        {
+          "ShotDescription": "A purple-clad figure lies on a bed, bathed in warm sunlight streaming through a window, with colorful pillows and a lamp on a bedside table nearby.",
+          "frame_number": 2,
+          "frame_time": 37.24377054401912
+        },
+        {
+          "ShotDescription": "A purple-clad figure lies on a bed in a warmly lit room, with sunlight streaming through a window and a lamp on a nightstand nearby.",
+          "frame_number": 3,
+          "frame_time": 38.5366673938115
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 499.3445198535919,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 9,
+      "start_time_seconds": 38.5366673938115,
+      "end_time_seconds": 39.66273884363066,
+      "duration_seconds": 1.1260714498191646
+    },
+    "metadata": {
+      "ShotDescription": "A pink and white dress with a sparkly pattern hangs on a white hanger against a colorful, geometrically patterned wall with two golden knobs.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "illustration",
+        "animation",
+        "art style"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "pastel",
+        "dreamy",
+        "gentle"
+      ],
+      "Mood": [
+        "calm",
+        "dreamy",
+        "wistful",
+        "innocent"
+      ],
+      "SettingContext": [
+        "interior",
+        "room",
+        "wall"
+      ],
+      "ContentDescriptors": [
+        "dress",
+        "hanger",
+        "wall",
+        "knobs",
+        "colorful",
+        "geometric pattern",
+        "sparkles",
+        "light"
+      ],
+      "LocationHints_Regional": [
+        "European",
+        "North American"
+      ],
+      "LocationHints_International": [
+        "European",
+        "North American"
+      ],
+      "SearchKeywords": [
+        "dress",
+        "hanger",
+        "wall",
+        "knobs",
+        "colorful",
+        "art",
+        "animation",
+        "illustration"
+      ],
+      "frame_number": 1,
+      "frame_time": 38.5366673938115,
+      "additional_frames": [
+        {
+          "ShotDescription": "A pink-haired character in a pink outfit is reaching for a sparkling pink and white dress hanging on a wooden wall.",
+          "frame_number": 2,
+          "frame_time": 39.09970311872108
+        },
+        {
+          "ShotDescription": "A close-up of a colorful, geometrically patterned wooden door with two golden knobs, illuminated by warm sunlight from a window on the left.",
+          "frame_number": 3,
+          "frame_time": 39.66273884363066
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 36.66326308250427,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 10,
+      "start_time_seconds": 39.66273884363066,
+      "end_time_seconds": 40.496865843496714,
+      "duration_seconds": 0.8341269998660508
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon-style animated character with dark skin is shown from the waist up, wearing a white shirt and pink pants, holding a light pink, ruffled fabric in front of them.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "cartoon",
+        "child",
+        "dressing",
+        "room"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "pastel",
+        "gentle"
+      ],
+      "Mood": [
+        "calm",
+        "gentle",
+        "peaceful"
+      ],
+      "SettingContext": [
+        "a bedroom",
+        "a room with a dresser"
+      ],
+      "ContentDescriptors": [
+        "character",
+        "dressing",
+        "room",
+        "dress",
+        "pants",
+        "shirt",
+        "hands",
+        "mirror",
+        "picture frame",
+        "drawer",
+        "wooden floor"
+      ],
+      "LocationHints_Regional": [
+        "likely a bedroom in a home"
+      ],
+      "LocationHints_International": [
+        "likely a bedroom in a home"
+      ],
+      "SearchKeywords": [
+        "animated character",
+        "dressing",
+        "child",
+        "room",
+        "cartoon",
+        "pink",
+        "white",
+        "pants",
+        "shirt",
+        "hands",
+        "mirror",
+        "picture frame",
+        "drawer",
+        "wooden floor"
+      ],
+      "frame_number": 1,
+      "frame_time": 39.66273884363066,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl in a pink sparkly dress stands with her arms outstretched in a softly lit room.",
+          "frame_number": 2,
+          "frame_time": 40.079802343563685
+        },
+        {
+          "ShotDescription": "A cartoon character with brown skin is wearing a pink sparkly dress and white shirt, standing in a softly lit room with a dresser and mirror in the background.",
+          "frame_number": 3,
+          "frame_time": 40.496865843496714
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 38.88277888298035,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 11,
+      "start_time_seconds": 40.496865843496714,
+      "end_time_seconds": 41.49781824333597,
+      "duration_seconds": 1.0009523998392567
+    },
+    "metadata": {
+      "ShotDescription": "A close-up, top-down view of a wooden surface with a red-painted horizontal band, featuring a single, round, golden object resting on it.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a painterly, textured style with visible brushstrokes and a warm color palette, suggesting an artistic or illustrative medium."
+        }
+      ],
+      "SubgenreCues": [
+        "illustration",
+        "concept art",
+        "abstract painting"
+      ],
+      "AdjectiveTheme": [
+        "warm",
+        "rustic",
+        "saturated"
+      ],
+      "Mood": [
+        "calm",
+        "reflective",
+        "still"
+      ],
+      "SettingContext": [
+        "an interior space, possibly a room or a table",
+        "a wooden surface, possibly a table or a drawer"
+      ],
+      "ContentDescriptors": [
+        "wooden surface",
+        "red painted horizontal band",
+        "golden round object",
+        "brushstrokes",
+        "texture"
+      ],
+      "LocationHints_Regional": [
+        "a region with warm, earthy tones"
+      ],
+      "LocationHints_International": [
+        "a location with a warm, natural aesthetic"
+      ],
+      "SearchKeywords": [
+        "wooden surface",
+        "red paint",
+        "golden object",
+        "illustration",
+        "concept art",
+        "painterly style",
+        "brushstrokes",
+        "texture",
+        "round object"
+      ],
+      "frame_number": 1,
+      "frame_time": 40.496865843496714,
+      "additional_frames": [
+        {
+          "ShotDescription": "A pair of hands reaches for a pair of light blue sneakers and a pair of red slip-on shoes, with a purple pair of shoes visible to the left.",
+          "frame_number": 2,
+          "frame_time": 40.99734204341634
+        },
+        {
+          "ShotDescription": "A wooden shoe rack holds a pair of purple slippers and a pair of red slip-on shoes.",
+          "frame_number": 3,
+          "frame_time": 41.49781824333597
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 38.74665188789368,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 12,
+      "start_time_seconds": 41.49781824333597,
+      "end_time_seconds": 42.58218334316184,
+      "duration_seconds": 1.0843650998258667
+    },
+    "metadata": {
+      "ShotDescription": "A close-up of a person's lower body as they tie the laces of a light blue and white sneaker, with a colorful, abstract paint splatter on the wooden floor beneath their feet.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, painterly style with warm, golden lighting and a focus on the action of tying shoelaces."
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "child",
+        "action",
+        "footwear",
+        "paint",
+        "colorful"
+      ],
+      "AdjectiveTheme": [
+        "calm",
+        "focused",
+        "gentle",
+        "warm"
+      ],
+      "Mood": [
+        "quiet",
+        "reflective",
+        "peaceful",
+        "intentional"
+      ],
+      "SettingContext": [
+        "interior",
+        "wooden floor",
+        "artistic environment"
+      ],
+      "ContentDescriptors": [
+        "person",
+        "lower body",
+        "shoes",
+        "lacing",
+        "sneaker",
+        "paint",
+        "colorful",
+        "wooden floor",
+        "abstract paint splatter"
+      ],
+      "LocationHints_Regional": [
+        "likely a domestic interior"
+      ],
+      "LocationHints_International": [
+        "likely a domestic interior"
+      ],
+      "SearchKeywords": [
+        "animated",
+        "child",
+        "shoes",
+        "lacing",
+        "paint",
+        "colorful",
+        "wooden floor",
+        "interior",
+        "sneaker",
+        "abstract paint"
+      ],
+      "frame_number": 1,
+      "frame_time": 41.49781824333597,
+      "additional_frames": [
+        {
+          "ShotDescription": "A character is tying the laces of their light blue and white sneakers, with colorful paint splatters on the wooden floor beneath them.",
+          "frame_number": 2,
+          "frame_time": 42.04000079324891
+        },
+        {
+          "ShotDescription": "A cartoon character is tying the laces of their light blue and white sneakers on a wooden floor.",
+          "frame_number": 3,
+          "frame_time": 42.58218334316184
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 64.54784679412842,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 13,
+      "start_time_seconds": 42.58218334316184,
+      "end_time_seconds": 44.167024642907336,
+      "duration_seconds": 1.5848412997454986
+    },
+    "metadata": {
+      "ShotDescription": "A cluttered wooden table in a bathroom, filled with various hair care products and tools, including tubes, jars, combs, and brushes, with a small cotton swab and a small jar of cream on the left.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, painterly style with bold, flat colors and visible brushstrokes, giving it a stylized, illustrative feel."
+        }
+      ],
+      "SubgenreCues": [
+        "illustration",
+        "bathroom scene",
+        "hair care products",
+        "cluttered table"
+      ],
+      "AdjectiveTheme": [
+        "vibrant",
+        "colorful",
+        "stylized",
+        "artistic"
+      ],
+      "Mood": [
+        "messy",
+        "organized",
+        "busy",
+        "personal"
+      ],
+      "SettingContext": [
+        "bathroom",
+        "table"
+      ],
+      "ContentDescriptors": [
+        "hair care products",
+        "tubes",
+        "jars",
+        "combs",
+        "brushes",
+        "cotton swab",
+        "cream",
+        "table",
+        "wooden surface"
+      ],
+      "LocationHints_Regional": [
+        "bathroom",
+        "home"
+      ],
+      "LocationHints_International": [
+        "bathroom",
+        "home"
+      ],
+      "SearchKeywords": [
+        "hair care",
+        "bathroom",
+        "products",
+        "combs",
+        "brushes",
+        "tubes",
+        "jars",
+        "cotton swab",
+        "cream",
+        "wooden table"
+      ],
+      "frame_number": 1,
+      "frame_time": 42.58218334316184,
+      "additional_frames": [
+        {
+          "ShotDescription": "A hand reaches for a purple comb on a cluttered table filled with various hair care products.",
+          "frame_number": 2,
+          "frame_time": 43.37460399303458
+        },
+        {
+          "ShotDescription": "A cluttered wooden table holds various hair care products, including tubes, jars, a comb, and a hairbrush, suggesting a messy or busy grooming routine.",
+          "frame_number": 3,
+          "frame_time": 44.167024642907336
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 45.25925421714783,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 14,
+      "start_time_seconds": 44.167024642907336,
+      "end_time_seconds": 54.71873119121286,
+      "duration_seconds": 10.551706548305525
+    },
+    "metadata": {
+      "ShotDescription": "A low-angle view of a bathroom with a white bathtub, green tiled walls, a framed abstract painting, and a pink polka-dotted object in the foreground.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, painterly style with visible brushstrokes and a muted color palette, suggesting a hand-drawn animation or a highly stylized illustration."
+        }
+      ],
+      "SubgenreCues": [
+        "animation",
+        "illustration",
+        "art style"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "calm",
+        "dreamy",
+        "pastel"
+      ],
+      "Mood": [
+        "peaceful",
+        "quiet",
+        "reflective",
+        "dreamlike"
+      ],
+      "SettingContext": [
+        "a bathroom",
+        "a room with tiled walls",
+        "a bathtub"
+      ],
+      "ContentDescriptors": [
+        "bathtub",
+        "tiled wall",
+        "painting",
+        "frame",
+        "pink polka-dotted object",
+        "window",
+        "brushstrokes",
+        "soft lighting",
+        "abstract art"
+      ],
+      "LocationHints_Regional": [
+        "a bathroom in a residential setting"
+      ],
+      "LocationHints_International": [
+        "a bathroom in a home"
+      ],
+      "SearchKeywords": [
+        "bathroom",
+        "bathtub",
+        "tiled wall",
+        "painting",
+        "abstract art",
+        "animation",
+        "illustration",
+        "soft lighting",
+        "dreamy"
+      ],
+      "frame_number": 1,
+      "frame_time": 44.167024642907336,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character wearing a pink polka-dot hat with a black bow is peeking over the edge of a bathtub, holding a black tablet with colorful stickers.",
+          "frame_number": 2,
+          "frame_time": 46.80495127998372
+        },
+        {
+          "ShotDescription": "A young child with curly black hair sits in a bathtub, looking at a black tablet with colorful stickers on it.",
+          "frame_number": 3,
+          "frame_time": 49.4428779170601
+        },
+        {
+          "ShotDescription": "A young girl with a large afro stands in a bathroom, looking down at a tablet with a sad expression.",
+          "frame_number": 4,
+          "frame_time": 52.08080455413648
+        },
+        {
+          "ShotDescription": "A young girl with a large afro is using a laptop in a bathroom, while a grumpy-looking grey cat sits nearby.",
+          "frame_number": 5,
+          "frame_time": 54.71873119121286
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 61.14764857292175,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 15,
+      "start_time_seconds": 54.71873119121286,
+      "end_time_seconds": 56.17845344097845,
+      "duration_seconds": 1.4597222497655906
+    },
+    "metadata": {
+      "ShotDescription": "An animated character with dark, curly hair is looking at a laptop screen displaying a YouTube channel page titled 'Hair Love' with various video thumbnails and a follower count of 649,810.",
+      "GenreCues": [
+        {
+          "genre_hint": "animated",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "YouTube",
+        "hair care",
+        "social media"
+      ],
+      "AdjectiveTheme": [
+        "animated",
+        "illustrative",
+        "digital"
+      ],
+      "Mood": [
+        "focused",
+        "curious",
+        "reflective"
+      ],
+      "SettingContext": [
+        "a room with a blue-green wall",
+        "a desk or table"
+      ],
+      "ContentDescriptors": [
+        "laptop screen",
+        "YouTube channel",
+        "Hair Love",
+        "649,810 followers",
+        "video thumbnails",
+        "character with dark curly hair",
+        "animated character",
+        "search bar",
+        "My links"
+      ],
+      "LocationHints_Regional": [
+        "United States"
+      ],
+      "LocationHints_International": [
+        "United States"
+      ],
+      "SearchKeywords": [
+        "Hair Love",
+        "YouTube",
+        "followers",
+        "video thumbnails",
+        "social media"
+      ],
+      "frame_number": 1,
+      "frame_time": 54.71873119121286,
+      "additional_frames": [
+        {
+          "ShotDescription": "A person with curly hair is watching a YouTube channel called \"Hair Love\" on a tablet.",
+          "frame_number": 2,
+          "frame_time": 55.448592316095656
+        },
+        {
+          "ShotDescription": "A person with curly hair is looking at a tablet displaying the YouTube channel \"Hair Love\" on a screen.",
+          "frame_number": 3,
+          "frame_time": 56.17845344097845
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 40.52191376686096,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 16,
+      "start_time_seconds": 56.17845344097845,
+      "end_time_seconds": 60.05714399035558,
+      "duration_seconds": 3.8786905493771258
+    },
+    "metadata": {
+      "ShotDescription": "A screenshot of a YouTube channel page for 'Hair Love', featuring a cartoon illustration of a woman with curly hair, a purple and black banner with the channel name, and a 'Follow' button.",
+      "GenreCues": [
+        {
+          "genre_hint": "inference from visual style",
+          "prominence_in_shot": "The image has a clean, digital, and stylized aesthetic typical of a modern YouTube channel interface, with a focus on color contrast and simple design elements."
+        }
+      ],
+      "SubgenreCues": [
+        "video content",
+        "social media",
+        "online channel",
+        "entertainment",
+        "hair care",
+        "animation"
+      ],
+      "AdjectiveTheme": [
+        "modern",
+        "clean",
+        "stylized",
+        "digital"
+      ],
+      "Mood": [
+        "friendly",
+        "inviting",
+        "professional"
+      ],
+      "SettingContext": [
+        "online",
+        "web interface",
+        "social media platform"
+      ],
+      "ContentDescriptors": [
+        "channel name",
+        "channel logo",
+        "followers count",
+        "video plays",
+        "navigation menu",
+        "search bar",
+        "follow button",
+        "video thumbnail",
+        "channel banner",
+        "cartoon illustration",
+        "hair"
+      ],
+      "LocationHints_Regional": [
+        "United States"
+      ],
+      "LocationHints_International": [
+        "United States"
+      ],
+      "SearchKeywords": [
+        "hair love",
+        "youtube",
+        "channel",
+        "followers",
+        "video plays",
+        "tutorial",
+        "hair tools"
+      ],
+      "frame_number": 1,
+      "frame_time": 56.17845344097845,
+      "additional_frames": [
+        {
+          "ShotDescription": "A screenshot of a YouTube-style video channel page featuring various animated illustrations of Black women with different hairstyles, along with video titles like \"Wash Routine\" and \"The Perfect Afro,\" and a \"Quick Links\" section on the right.",
+          "frame_number": 2,
+          "frame_time": 58.117798715667014
+        },
+        {
+          "ShotDescription": "A cartoon hand points to a video titled \"The Perfect Afro\" on a website that features various hairstyles and their play counts.",
+          "frame_number": 3,
+          "frame_time": 60.05714399035558
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 41.31653094291687,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 17,
+      "start_time_seconds": 60.05714399035558,
+      "end_time_seconds": 61.18321544017475,
+      "duration_seconds": 1.1260714498191717
+    },
+    "metadata": {
+      "ShotDescription": "A blurry, horizontal split-screen image showing two cartoon-style characters with dark skin and black hair, one with a large afro and the other with a short, spiky hairstyle, both with simple facial features and wearing glasses.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "cartoon",
+        "animated",
+        "character portrait",
+        "split screen"
+      ],
+      "AdjectiveTheme": [
+        "blurry",
+        "soft",
+        "abstract"
+      ],
+      "Mood": [
+        "neutral",
+        "calm",
+        "artistic"
+      ],
+      "SettingContext": [
+        "inanimate background",
+        "light-colored wall",
+        "abstract"
+      ],
+      "ContentDescriptors": [
+        "two characters",
+        "cartoon",
+        "animated",
+        "blurry",
+        "dark skin",
+        "black hair",
+        "glasses",
+        "split screen",
+        "abstract"
+      ],
+      "LocationHints_Regional": [
+        "not applicable"
+      ],
+      "LocationHints_International": [
+        "not applicable"
+      ],
+      "SearchKeywords": [
+        "cartoon",
+        "animated",
+        "character",
+        "blurry",
+        "split screen",
+        "dark skin",
+        "black hair",
+        "glasses"
+      ],
+      "frame_number": 1,
+      "frame_time": 60.05714399035558,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon illustration shows a woman with dark skin and curly hair, smiling and wearing large gold hoop earrings, with a braid on the side.",
+          "frame_number": 2,
+          "frame_time": 60.62017971526517
+        },
+        {
+          "ShotDescription": "A cartoon illustration of a woman with dark skin and curly hair, wearing gold hoop earrings and a blue top, smiling with her hair styled in braids.",
+          "frame_number": 3,
+          "frame_time": 61.18321544017475
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 44.34321308135986,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 18,
+      "start_time_seconds": 61.18321544017475,
+      "end_time_seconds": 63.18512023985327,
+      "duration_seconds": 2.0019047996785204
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a large afro and a grey cat with a grumpy expression sit at a table, looking at a laptop with stickers on it.",
+      "GenreCues": [
+        {
+          "genre_hint": "inferred from visual style",
+          "prominence_in_shot": "The image has a soft, painterly animation style with a warm color palette and expressive character designs."
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "children's",
+        "cartoon",
+        "family",
+        "laptop"
+      ],
+      "AdjectiveTheme": [
+        "warm",
+        "soft",
+        "expressive",
+        "colorful"
+      ],
+      "Mood": [
+        "playful",
+        "curious",
+        "friendly"
+      ],
+      "SettingContext": [
+        "a bathroom",
+        "a table",
+        "a wall with a towel rack"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "cat",
+        "laptop",
+        "sticker",
+        "afro",
+        "table",
+        "window",
+        "towel"
+      ],
+      "LocationHints_Regional": [
+        "bathroom"
+      ],
+      "LocationHints_International": [
+        "bathroom"
+      ],
+      "SearchKeywords": [
+        "girl",
+        "cat",
+        "laptop",
+        "sticker",
+        "afro",
+        "bathroom",
+        "cartoon",
+        "animated"
+      ],
+      "frame_number": 1,
+      "frame_time": 61.18321544017475,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with a large afro and a grey cat are looking at a laptop with colorful stickers on the screen.",
+          "frame_number": 2,
+          "frame_time": 62.18416784001401
+        },
+        {
+          "ShotDescription": "A young girl with a large afro and a grey cat are looking at a laptop with colorful stickers on the screen.",
+          "frame_number": 3,
+          "frame_time": 63.18512023985327
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 38.56900477409363,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 19,
+      "start_time_seconds": 63.18512023985327,
+      "end_time_seconds": 64.81166788959206,
+      "duration_seconds": 1.6265476497387894
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon illustration of a young Black woman with curly hair styled in braids, wearing large gold hoop earrings and a blue top, smiling at the camera with a video player interface showing a timestamp of 15:04.",
+      "GenreCues": [
+        {
+          "genre_hint": "cartoon",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "illustration",
+        "animation",
+        "character portrait",
+        "video player interface"
+      ],
+      "AdjectiveTheme": [
+        "happy",
+        "joyful",
+        "bright",
+        "vibrant"
+      ],
+      "Mood": [
+        "positive",
+        "energetic",
+        "playful"
+      ],
+      "SettingContext": [
+        "digital screen",
+        "video player"
+      ],
+      "ContentDescriptors": [
+        "woman",
+        "hair",
+        "braids",
+        "hoop earrings",
+        "blue top",
+        "video player",
+        "timestamp",
+        "15:04",
+        "cartoon style"
+      ],
+      "LocationHints_Regional": [
+        "not applicable"
+      ],
+      "LocationHints_International": [
+        "not applicable"
+      ],
+      "SearchKeywords": [
+        "cartoon",
+        "woman",
+        "hair",
+        "braids",
+        "hoop earrings",
+        "video player",
+        "15:04",
+        "illustration",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 63.18512023985327,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon girl with dark skin and curly hair is smiling in the center of a row of framed portraits.",
+          "frame_number": 2,
+          "frame_time": 63.99839406472266
+        },
+        {
+          "ShotDescription": "A cartoon illustration of a smiling young Black girl with curly hair, shown in a video frame with a play button and a timestamp of 12:03.",
+          "frame_number": 3,
+          "frame_time": 64.81166788959206
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 38.28019595146179,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 20,
+      "start_time_seconds": 64.81166788959206,
+      "end_time_seconds": 67.81452508910984,
+      "duration_seconds": 3.002857199517777
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with voluminous dark curly hair sits at a table, smiling as she looks at a laptop adorned with colorful stickers, while a grey cat with closed eyes rests beside her.",
+      "GenreCues": [
+        {
+          "genre_hint": "animation",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "cartoon",
+        "animated",
+        "child",
+        "cat",
+        "laptop",
+        "sticker",
+        "tablet"
+      ],
+      "AdjectiveTheme": [
+        "happy",
+        "joyful",
+        "content",
+        "curious",
+        "playful"
+      ],
+      "Mood": [
+        "happy",
+        "content",
+        "joyful",
+        "curious",
+        "peaceful"
+      ],
+      "SettingContext": [
+        "interior",
+        "home",
+        "table",
+        "window",
+        "brick wall"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "cat",
+        "laptop",
+        "sticker",
+        "tablet",
+        "curly hair",
+        "pink shirt",
+        "white collar",
+        "eyes",
+        "smile",
+        "sticker",
+        "cherry",
+        "ice cream",
+        "heart",
+        "star",
+        "zuri",
+        "colorful",
+        "black"
+      ],
+      "LocationHints_Regional": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "LocationHints_International": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "Germany",
+        "France",
+        "Japan",
+        "South Korea"
+      ],
+      "SearchKeywords": [
+        "cartoon",
+        "animation",
+        "child",
+        "cat",
+        "laptop",
+        "sticker",
+        "tablet",
+        "curly hair",
+        "pink shirt",
+        "white collar",
+        "eyes",
+        "smile",
+        "sticker",
+        "cherry",
+        "ice cream",
+        "heart",
+        "star",
+        "zuri",
+        "colorful",
+        "black"
+      ],
+      "frame_number": 1,
+      "frame_time": 64.81166788959206,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with curly hair is smiling at her laptop, which has colorful stickers on it, while a grey cat with a stern expression sits beside her.",
+          "frame_number": 2,
+          "frame_time": 66.31309648935095
+        },
+        {
+          "ShotDescription": "A young girl with a large afro and a grey cat are in a bathroom, looking at a laptop with stickers on it.",
+          "frame_number": 3,
+          "frame_time": 67.81452508910984
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 48.60712194442749,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 21,
+      "start_time_seconds": 67.81452508910984,
+      "end_time_seconds": 69.31595368886873,
+      "duration_seconds": 1.5014285997588956
+    },
+    "metadata": {
+      "ShotDescription": "A digital animation of a young Black girl with curly hair in pigtails, smiling and looking at the viewer, displayed in a video frame with a play button and timestamp.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image is a digital animation with a stylized, illustrative art style, featuring soft colors and clean lines."
+        }
+      ],
+      "SubgenreCues": [
+        "animation",
+        "illustration",
+        "digital art",
+        "character portrait"
+      ],
+      "AdjectiveTheme": [
+        "warm",
+        "joyful",
+        "positive"
+      ],
+      "Mood": [
+        "happy",
+        "content",
+        "welcoming"
+      ],
+      "SettingContext": [
+        "a digital interface, possibly a video player or a social media platform"
+      ],
+      "ContentDescriptors": [
+        "a young girl",
+        "curly hair",
+        "pigtails",
+        "smiling",
+        "video frame",
+        "play button",
+        "timestamp",
+        "illustrative art style"
+      ],
+      "LocationHints_Regional": [
+        "not applicable"
+      ],
+      "LocationHints_International": [
+        "not applicable"
+      ],
+      "SearchKeywords": [
+        "animation",
+        "illustration",
+        "digital art",
+        "girl",
+        "curly hair",
+        "pigtails",
+        "video",
+        "play button",
+        "timestamp",
+        "character portrait"
+      ],
+      "frame_number": 1,
+      "frame_time": 67.81452508910984,
+      "additional_frames": [
+        {
+          "ShotDescription": "Two animated girls are shown in a split-screen, with one on the left wearing a pink top and the other on the right wearing a green top, both with their hair styled in buns.",
+          "frame_number": 2,
+          "frame_time": 68.56523938898928
+        },
+        {
+          "ShotDescription": "A cartoon girl with long, flowing black hair is shown in a video clip, smiling as she holds a green bottle, while the other panels show her from different angles.",
+          "frame_number": 3,
+          "frame_time": 69.31595368886873
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 47.37312579154968,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 22,
+      "start_time_seconds": 69.31595368886873,
+      "end_time_seconds": 73.69512043816549,
+      "duration_seconds": 4.379166749296758
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a large afro and a grey and white cat are sitting at a table, looking at a laptop with colorful stickers on it.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, hand-drawn animation style with a focus on the characters and their interaction."
+        }
+      ],
+      "SubgenreCues": [
+        "animated children's film",
+        "family scene",
+        "laptop use"
+      ],
+      "AdjectiveTheme": [
+        "calm",
+        "thoughtful",
+        "curious"
+      ],
+      "Mood": [
+        "focused",
+        "curious",
+        "thoughtful"
+      ],
+      "SettingContext": [
+        "a bathroom",
+        "a table",
+        "a wall with a towel rack"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "cat",
+        "laptop",
+        "sticker",
+        "afro",
+        "table",
+        "wall",
+        "towel rack"
+      ],
+      "LocationHints_Regional": [
+        "bathroom"
+      ],
+      "LocationHints_International": [
+        "bathroom"
+      ],
+      "SearchKeywords": [
+        "girl",
+        "cat",
+        "laptop",
+        "sticker",
+        "afro",
+        "bathroom",
+        "animated film"
+      ],
+      "frame_number": 1,
+      "frame_time": 69.31595368886873,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with a large afro is smiling as she looks at her laptop, which has colorful stickers on it, while a grumpy-looking cat watches her from the side.",
+          "frame_number": 2,
+          "frame_time": 71.50553706351711
+        },
+        {
+          "ShotDescription": "A young girl with a large afro is sitting at a bathroom sink, looking at a laptop adorned with colorful stickers and the name \"Zuri\" on its screen.",
+          "frame_number": 3,
+          "frame_time": 73.69512043816549
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 43.8929967880249,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 23,
+      "start_time_seconds": 73.69512043816549,
+      "end_time_seconds": 75.279961737911,
+      "duration_seconds": 1.5848412997455057
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon-style illustration of a young woman with dark skin and long, flowing black hair, wearing a green top and gold hoop earrings, holding a green hair dryer and smiling as her hair is being styled.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "animated",
+        "illustration",
+        "hair styling",
+        "young woman",
+        "hair dryer"
+      ],
+      "AdjectiveTheme": [
+        "happy",
+        "content",
+        "lively"
+      ],
+      "Mood": [
+        "positive",
+        "energetic",
+        "joyful"
+      ],
+      "SettingContext": [
+        "a bathroom",
+        "a mirror",
+        "a video recording"
+      ],
+      "ContentDescriptors": [
+        "woman",
+        "hair dryer",
+        "green top",
+        "gold hoop earrings",
+        "long black hair",
+        "smiling",
+        "video recording",
+        "mirror",
+        "video player interface"
+      ],
+      "LocationHints_Regional": [
+        "United States"
+      ],
+      "LocationHints_International": [
+        "United States"
+      ],
+      "SearchKeywords": [
+        "animated",
+        "illustration",
+        "hair dryer",
+        "young woman",
+        "green top",
+        "gold hoop earrings",
+        "long black hair",
+        "video recording",
+        "smiling",
+        "mirror",
+        "video player interface"
+      ],
+      "frame_number": 1,
+      "frame_time": 73.69512043816549,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with a large afro hairstyle and gold hoop earrings is shown in a side profile, smiling.",
+          "frame_number": 2,
+          "frame_time": 74.48754108803824
+        },
+        {
+          "ShotDescription": "A cartoon character with an afro hairstyle is shown in a series of three blurry images, suggesting motion.",
+          "frame_number": 3,
+          "frame_time": 75.279961737911
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 46.67237210273743,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 24,
+      "start_time_seconds": 75.279961737911,
+      "end_time_seconds": 75.94726333780383,
+      "duration_seconds": 0.6673015998928378
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon-style illustration of a young Black woman with a large afro, wearing a green top and gold hoop earrings, smiling with her eyes closed in a peaceful expression.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "high"
+        }
+      ],
+      "SubgenreCues": [
+        "cartoon",
+        "anime",
+        "illustration",
+        "character",
+        "portrait"
+      ],
+      "AdjectiveTheme": [
+        "calm",
+        "peaceful",
+        "happy",
+        "content"
+      ],
+      "Mood": [
+        "serene",
+        "contentment",
+        "joyful"
+      ],
+      "SettingContext": [
+        "a simple background with a light blue sky"
+      ],
+      "ContentDescriptors": [
+        "woman",
+        "afro",
+        "green top",
+        "gold hoop earrings",
+        "smiling",
+        "closed eyes",
+        "cartoon",
+        "illustration"
+      ],
+      "LocationHints_Regional": [
+        "United States"
+      ],
+      "LocationHints_International": [
+        "United States"
+      ],
+      "SearchKeywords": [
+        "cartoon woman",
+        "afro",
+        "green top",
+        "gold earrings",
+        "smiling",
+        "illustration"
+      ],
+      "frame_number": 1,
+      "frame_time": 75.279961737911,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with curly black hair and gold hoop earrings, shown in three panels, appears to be smiling.",
+          "frame_number": 2,
+          "frame_time": 75.61361253785742
+        },
+        {
+          "ShotDescription": "A cartoon character with curly black hair, wearing gold hoop earrings and a green top, is shown in a video frame with a timestamp of 15:04.",
+          "frame_number": 3,
+          "frame_time": 75.94726333780383
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 36.44306921958923,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 25,
+      "start_time_seconds": 75.94726333780383,
+      "end_time_seconds": 77.74063638751583,
+      "duration_seconds": 1.7933730497120024
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a large afro hairstyle is sitting in a bathroom, looking at a laptop with stickers on the screen.",
+      "GenreCues": [
+        {
+          "genre_hint": "infer from image",
+          "prominence_in_shot": "The image has a soft, painterly animation style with a focus on the character and her interaction with the laptop."
+        }
+      ],
+      "SubgenreCues": [
+        "animated film",
+        "bathroom scene",
+        "child character",
+        "laptop",
+        "stickers"
+      ],
+      "AdjectiveTheme": [
+        "soft",
+        "warm",
+        "colorful"
+      ],
+      "Mood": [
+        "curious",
+        "focused",
+        "innovative"
+      ],
+      "SettingContext": [
+        "bathroom",
+        "modern interior",
+        "brick wall"
+      ],
+      "ContentDescriptors": [
+        "girl",
+        "afro",
+        "laptop",
+        "stickers",
+        "bathroom",
+        "white sink",
+        "frame",
+        "window",
+        "towel",
+        "painting"
+      ],
+      "LocationHints_Regional": [
+        "bathroom",
+        "brick wall"
+      ],
+      "LocationHints_International": [
+        "bathroom",
+        "modern interior"
+      ],
+      "SearchKeywords": [
+        "girl",
+        "laptop",
+        "stickers",
+        "bathroom",
+        "afro",
+        "animation",
+        "child",
+        "painting",
+        "window",
+        "towel"
+      ],
+      "frame_number": 1,
+      "frame_time": 75.94726333780383,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with a large afro hairstyle is sitting in a bathroom, looking at a laptop with colorful stickers on the screen.",
+          "frame_number": 2,
+          "frame_time": 76.84394986265983
+        },
+        {
+          "ShotDescription": "A young girl with a large afro hairstyle is sitting in a bathroom, looking at a laptop that has stickers on it.",
+          "frame_number": 3,
+          "frame_time": 77.74063638751583
+        }
+      ]
+    },
+    "model_name": "Qwen3",
+    "processing_time_seconds": 39.060161113739014,
+    "success": true,
+    "error_message": null
+  }
+]

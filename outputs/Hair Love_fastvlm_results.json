@@ -1,0 +1,2586 @@
+[
+  {
+    "shot_info": {
+      "shot_number": 1,
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 3.002857199517779,
+      "duration_seconds": 3.002857199517779
+    },
+    "metadata": {
+      "ShotDescription": "A one-sentence description of what you see",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 0.0,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A promotional image for Sony Pictures Animation featuring a cartoon style with a family theme, set in an urban environment.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image provided is a promotional graphic for Sony Pictures Animation, featuring a cartoon style with a family theme, set in an urban environment. The image is likely used for advertising or marketing purposes. The content descriptors include characters, family, and animation. The mood is joyful, and the setting context is home. The content descriptor is \"Characters\". The location hints are regional and international, with the search keywords being \"family\" and \"animation\".\nHere is the JSON object for the image:\n\n{\n\"ShotDescription\": \"A promotional image for Sony Pictures Animation featuring a cartoon style with a family theme, set in an urban environment.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joy",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A promotional image for Sony Pictures Animation featuring a cartoon style with a family theme, set in an urban environment.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image provided is a promotional graphic for Sony Pictures Animation, featuring a cartoon style with a family theme, set in an urban environment. The image is likely used for advertising or marketing purposes. The content descriptors include characters, family, and animation. The mood is joyful, and the setting context is home. The content descriptor is \"Characters\". The location hints are regional and international, with the search keywords being \"family\" and \"animation\".\nHere is the JSON object for the image:\n\n{\n\"ShotDescription\": \"A promotional image for Sony Pictures Animation featuring a cartoon style with a family theme, set in an urban environment.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joy",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "A close-up shot of a black background with the words 'Sony Pictures Animation' in bold white letters. The text is slightly tilted and the font is bold and blocky. The background is dark, and the text is the only element in the image. The mood is joyful, and the setting is home. The content descriptors include characters, family, animation, and the location hints are urban and USA. The search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 3.002857199517779
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 23.623033046722412,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 2,
+      "start_time_seconds": 3.002857199517779,
+      "end_time_seconds": 20.1024606967718,
+      "duration_seconds": 17.099603497254023
+    },
+    "metadata": {
+      "ShotDescription": "A close-up shot of a black background with the text 'SONY PICTURES ANIMATION' in bold white letters. The text is slightly tilted to the right, and the font is bold and blocky. The background is dark, with no other objects or colors visible. The text is the main focus of the image, and there are no other elements to describe. The mood is joyful, and the setting context is home. The content descriptors include characters, family, animation, and heartwarming. The location hints are urban and international, with the search keywords being 'family' and 'animation'.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints registional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 3.002857199517779,
+      "additional_frames": [
+        {
+          "ShotDescription": "A collection of hand-drawn portraits of children on a blue wall, with a prominent poster of a unicorn in the upper right corner. The portraits are of various ages and genders, with some featuring cartoonish features and others more realistic. The setting appears to be a home, with a window showing a grid pattern and a starry night sky. The mood is joyful, and the content descriptors include characters, animation, family, and international. The location hints are urban and USA. The search keywords include family, animation, and international.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 7.277758073831285
+        },
+        {
+          "ShotDescription": "A vibrant and colorful scene featuring a young girl with curly hair and a purple dress, surrounded by various drawings and a sign that reads 'Hair Love' in bold pink letters. The background is a light blue wall with a window, and the overall mood is joyful and heartwarming. The scene is set in a family-friendly environment, with a focus on family and animation. The location is urban, and the search keywords include 'family', 'animation', and 'USA'.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 11.55265894814479
+        },
+        {
+          "ShotDescription": "A vibrant and whimsical scene featuring a cartoon unicorn and a heartwarming family portrait on a blue wall. The unicorn, with its purple mane and white body, is set against a backdrop of stars and a calendar, while the family portrait, framed in black, depicts a joyful family moment. The scene is imbued with a sense of joy and warmth, capturing the essence of family and the magic of animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 4,
+          "frame_time": 15.827559822458296
+        },
+        {
+          "ShotDescription": "A cartoon-style image of a pink balloon floating in the air with a brown object in the background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 5,
+          "frame_time": 20.1024606967718
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 36.03426790237427,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 3,
+      "start_time_seconds": 20.1024606967718,
+      "end_time_seconds": 25.1489290459614,
+      "duration_seconds": 5.046468349189599
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon-style image of a pink balloon floating in the air with a brown object on top, surrounded by a green background with pink and white dots. The scene has a joyful and heartwarming mood, and the content descriptors include characters, family, animation, and location hints. The search keywords include family, animation, and the location hints are urban and USA.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints registional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 20.1024606967718,
+      "additional_frames": [
+        {
+          "ShotDescription": "A hand holding a pink cupcake with white frosting and pink sprinkles, set against a green background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 21.784616813168334
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A cartoon character with a joyful expression, wearing a pink polka dot hat, is depicted in a close-up shot. The character's eyes are closed, and their mouth is open in a smile, conveying a sense of happiness. The background is a simple green, with a hint of a pink object in the top right corner. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The setting is indoors, and the content descriptors include characters, location hints, and search keywords. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink polka dot hat, and is set indoors with a simple green background and a hint of a pink object. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink polka dot hat, and is set indoors with a simple green background and a hint of a pink object. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink",
+          "raw_response": "{\n\"ShotDescription\": \"A cartoon character with a joyful expression, wearing a pink polka dot hat, is depicted in a close-up shot. The character's eyes are closed, and their mouth is open in a smile, conveying a sense of happiness. The background is a simple green, with a hint of a pink object in the top right corner. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The setting is indoors, and the content descriptors include characters, location hints, and search keywords. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink polka dot hat, and is set indoors with a simple green background and a hint of a pink object. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink polka dot hat, and is set indoors with a simple green background and a hint of a pink object. The image has a playful and heartwarming feel, fitting the \"Family\" genre and \"Joyful\" mood. The image is likely from a cartoon or animation series. The image has a \"ShotDescription\" of a cartoon character with a joyful expression, wearing a pink",
+          "frame_number": 3
+        },
+        {
+          "ShotDescription": "A close-up shot of a young African American girl with brown skin and curly hair, wearing a pink dress with white polka dots, looking surprised with her mouth open and hands clasped in front of her. The background is a blurred green and pink. The image has a cartoon style and is likely from an animation. The mood is joyful, and the setting is home. The content descriptors include characters, family, animation, and location hints. The location context is urban, and the search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 4,
+          "frame_time": 25.1489290459614
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 28.83709478378296,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 4,
+      "start_time_seconds": 25.1489290459614,
+      "end_time_seconds": 26.400119545760475,
+      "duration_seconds": 1.2511904997990762
+    },
+    "metadata": {
+      "ShotDescription": "A close-up of a gray and white cat with green eyes, looking directly at the camera, with a neutral expression. The background is a simple gray with a hint of a brown object in the top right corner. The image is in a cartoon style with a focus on the cat's face and upper body. The scene is set in a home environment. The mood is joyful, and the setting is urban. The content descriptors include characters, family, animation, and heartwarming. The location hints are urban and international, with a search keyword of 'family'.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 25.1489290459614,
+      "additional_frames": [
+        {
+          "ShotDescription": "A close-up of a gray cat with green eyes and a pink nose, looking angry with its mouth open, set against a gray background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 25.774524295860935
+        },
+        {
+          "ShotDescription": "A close-up of a gray and white cat with green eyes and a pink nose, looking directly at the camera. The background is a simple gray with a hint of a brown object in the top right corner. The image has a cartoon style and is likely from an animation. The scene is set in a home environment. The mood is joyful, and the setting is urban. The content descriptors include characters, family, animation, and location hints. The location hints are regional and international. The search keywords include family, animation, and the term 'joyful'.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 26.400119545760475
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 20.988964080810547,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 5,
+      "start_time_seconds": 26.400119545760475,
+      "end_time_seconds": 33.32337364464869,
+      "duration_seconds": 6.923254098888215
+    },
+    "metadata": {
+      "ShotDescription": "A one-sentence description of what you see",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 26.400119545760475,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A young girl with a pink bonnet and pink pajamas is sitting on a bed next to a gray cat with green eyes, both looking at each other with a joyful expression. The scene is set in a cozy bedroom with a window in the background. The mood is heartwarming and the setting is family-oriented. The content descriptors include characters, location context, and search keywords. The genre is animation, and the prominence in the shot is \"cartoon style\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated movie or TV show featuring a young girl and a gray cat. The girl is wearing a pink bonnet and pink pajamas, and she is sitting on a bed with a purple blanket. The cat is sitting on the bed next to her. The setting is a cozy bedroom with a window in the background. The mood is heartwarming and the scene is family-oriented. The content descriptors include characters, location context, and search keywords. The genre is animation, and the",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A young girl with a pink bonnet and pink pajamas is sitting on a bed next to a gray cat with green eyes, both looking at each other with a joyful expression. The scene is set in a cozy bedroom with a window in the background. The mood is heartwarming and the setting is family-oriented. The content descriptors include characters, location context, and search keywords. The genre is animation, and the prominence in the shot is \"cartoon style\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated movie or TV show featuring a young girl and a gray cat. The girl is wearing a pink bonnet and pink pajamas, and she is sitting on a bed with a purple blanket. The cat is sitting on the bed next to her. The setting is a cozy bedroom with a window in the background. The mood is heartwarming and the scene is family-oriented. The content descriptors include characters, location context, and search keywords. The genre is animation, and the",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "A heartwarming scene of a black woman sleeping peacefully with a gray cat on her chest, both sharing a tender moment in a cozy bedroom with a window in the background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Joyful"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 31.01562227835262
+        },
+        {
+          "ShotDescription": "A young girl with a pink bonnet and a cat are cuddling on a bed in a cartoon style animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 4,
+          "frame_time": 33.32337364464869
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 28.059766054153442,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 6,
+      "start_time_seconds": 33.32337364464869,
+      "end_time_seconds": 34.032381594534826,
+      "duration_seconds": 0.7090079498861357
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon featuring a character with a pink hat and a brown face, standing in a room with a window and a door. The character is looking out the window, and there is a purple cloud in the sky. The room has a blue wall and a window with a grid pattern. The character is wearing a pink shirt and has a yellow object in their hand. The scene is set in a home environment.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon featuring a character with a pink hat and a brown face, standing in a room with a window and a door. The character is looking out the window, and there is a purple cloud in the sky. The room has a blue wall and a window with a grid pattern. The character is wearing a pink shirt and has a yellow object in their hand. The scene is set in a home environment.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genre_hint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints(regional): [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated show, featuring a character with a pink polka-dotted hood and a brown face, standing in a room with a window and a blue wall. The character is looking out of a window, and there is a purple cloud in the sky. The room has a window with a grid pattern and a heart-shaped object on the windowsill. The character is wearing a pink shirt. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include the characters, the setting context, and the mood.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genre_hint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"Setting",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genre_hint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints(regional): [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated show, featuring a character with a pink polka-dotted hood and a brown face, standing in a room with a window and a blue wall. The character is looking out of a window, and there is a purple cloud in the sky. The room has a window with a grid pattern and a heart-shaped object on the windowsill. The character is wearing a pink shirt. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include the characters, the setting context, and the mood.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genre_hint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"Setting",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon featuring a character with a pink hat and a brown face, standing in a room with a window and a door. The character is looking out the window, and there is a purple cloud in the sky. The room has a blue wall and a window with a grid pattern. The character is wearing a pink shirt and has a yellow object in their hand. The mood of the scene is joyful, and the setting is a home.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon featuring a character with a pink hat and a brown face, standing in a room with a window and a door. The character is looking out the window, and there is a purple cloud in the sky. The room has a blue wall and a window with a grid pattern. The character is wearing a pink shirt and has a yellow object in their hand. The mood of the scene is joyful, and the setting is a home.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 20.169438123703003,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 7,
+      "start_time_seconds": 34.032381594534826,
+      "end_time_seconds": 35.95087369422674,
+      "duration_seconds": 1.9184920996919175
+    },
+    "metadata": {
+      "ShotDescription": "A blurry image of a cartoon cat with a purple bow, sitting on a blue couch with a pink pillow and a white wall in the background. The cat has a black nose and is looking to the left. The image has a playful and joyful mood, with a focus on the cat's expression and the cozy setting. The scene is set in a home environment, with a focus on the cat's interaction with its surroundings. The image is likely from a cartoon or animation, with a focus on the cat's personality and the emotional state of the scene.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 34.032381594534826,
+      "additional_frames": [
+        {
+          "ShotDescription": "A one-sentence description of what you see",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 34.991627644380785
+        },
+        {
+          "ShotDescription": "A one-sentence description of what you see",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 35.95087369422674
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.417986154556274,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 8,
+      "start_time_seconds": 35.95087369422674,
+      "end_time_seconds": 38.5366673938115,
+      "duration_seconds": 2.5857936995847552
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with a pink bonnet and a cat sit on a bed in a room with a window in the background.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 35.95087369422674,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animation with a focus on a character lying on a bed, covered with a purple blanket. The setting appears to be a bedroom with a window on the right side, allowing sunlight to stream in and illuminate the room. The walls are painted in a gradient of colors, transitioning from a darker shade on the left to a lighter shade on the right. The floor is wooden, and there is a green object on the left side of the image. The overall mood of the scene is cheerful and warm, with a focus on the character's comfort and the cozy atmosphere of the room.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animation with a focus on a character lying on a bed, covered with a purple blanket. The setting appears to be a bedroom with a window on the right side, allowing sunlight to stream in and illuminate the room. The walls are painted in a gradient of colors, transitioning from a darker shade on the left to a lighter shade on the right. The floor is wooden, and there is a green object on the left side of the image. The overall mood of the scene is cheerful and warm, with a focus on the character's comfort and the cozy atmosphere of the room.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "A one-sentence description of what you see",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 38.5366673938115
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.531110286712646,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 9,
+      "start_time_seconds": 38.5366673938115,
+      "end_time_seconds": 39.66273884363066,
+      "duration_seconds": 1.1260714498191646
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon-style image of a pink dress with white stars on a wooden floor with a pair of gold-colored shoes in the background.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 38.5366673938115,
+      "additional_frames": [
+        {
+          "ShotDescription": "A hand holding a pink dress with a white apron with stars on it, hanging on a wooden hanger in a room with wooden floors and walls.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 39.09970311872108
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a pair of gold-colored, round knobs on a wooden surface, possibly a door or a cabinet. The knobs are set against a background of geometric shapes in various colors, including shades of brown, yellow, and gray. The overall style of the image is abstract and modern, with a focus on geometric shapes and bold colors. The image does not contain any text or additional elements that would provide more context or information about the scene.\nOutput: \n{\n\"ShotDescription\": \"A pair of gold-colored, round knobs on a wooden surface, possibly a door or a cabinet, with a geometric background in various colors.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a pair of gold-colored, round knobs on a wooden surface, possibly a door or a cabinet. The knobs are set against a background of geometric shapes in various colors, including shades of brown, yellow, and gray. The overall style of the image is abstract and modern, with a focus on geometric shapes and bold colors. The image does not contain any text or additional elements that would provide more context or information about the scene.\nOutput: \n{\n\"ShotDescription\": \"A pair of gold-colored, round knobs on a wooden surface, possibly a door or a cabinet, with a geometric background in various colors.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.532405138015747,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 10,
+      "start_time_seconds": 39.66273884363066,
+      "end_time_seconds": 40.496865843496714,
+      "duration_seconds": 0.8341269998660508
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon character is holding a pink dress in a room with a wooden floor and a white wall. The character is wearing a white shirt and pink pants. The room has a picture on the wall and a dresser with a mirror. The mood is joyful and the setting is home. The content descriptor is 'Family' and the location hints are 'Urban' and 'USA'. The search keywords are 'family', 'animation'.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 39.66273884363066,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character is dancing in a pink dress with white stars on it, surrounded by a room with a wooden floor and a picture frame on a table in the background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 40.079802343563685
+        },
+        {
+          "ShotDescription": "A cartoon character is dancing in a room with a pink dress and white t-shirt, surrounded by a blurred background that suggests a home environment.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 40.496865843496714
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.451225996017456,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 11,
+      "start_time_seconds": 40.496865843496714,
+      "end_time_seconds": 41.49781824333597,
+      "duration_seconds": 1.0009523998392567
+    },
+    "metadata": {
+      "ShotDescription": "A vibrant sunset with a golden sun and a red sky, with a wooden floor and a wooden wall in the background, evoking a sense of warmth and comfort.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "Content describers": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 40.496865843496714,
+      "additional_frames": [
+        {
+          "ShotDescription": "A one-sentence description of what you see",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 40.99734204341634
+        },
+        {
+          "ShotDescription": "A one-sentence description of what you see",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 41.49781824333597
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.48454761505127,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 12,
+      "start_time_seconds": 41.49781824333597,
+      "end_time_seconds": 42.58218334316184,
+      "duration_seconds": 1.0843650998258667
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's hands tying the shoelaces of a pair of blue sneakers. The person is wearing white socks and the shoes are placed on a colorful rug with red, blue, and green patterns. The background appears to be a wooden floor. The image is likely from an animated series or movie, given the stylized and colorful nature of the scene.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's hands tying the shoelaces of a pair of blue sneakers. The person is wearing white socks and the shoes are placed on a colorful rug with red, blue, and green patterns. The background appears to be a wooden floor. The image is likely from an animated series or movie, given the stylized and colorful nature of the scene.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's feet and lower legs, with the person wearing blue sneakers and white socks. The person is standing on a rug with a red and green pattern. The background appears to be a wooden floor and a wall with a light switch. The image is likely from an animated show or movie.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image is a still from an animated",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's feet and lower legs, with the person wearing blue sneakers and white socks. The person is standing on a rug with a red and green pattern. The background appears to be a wooden floor and a wall with a light switch. The image is likely from an animated show or movie.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image is a still from an animated",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's feet wearing blue sneakers with white laces, standing on a colorful rug with red, green, and blue patterns. The person's legs are bent at the knees, and they are holding the shoes with both hands. The background appears to be a wooden floor with a light-colored wall. The image is likely from an animated show or movie.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a close-up of a person's feet wearing blue sneakers with white laces, standing on a colorful rug with red, green, and blue patterns. The person's legs are bent at the knees, and they are holding the shoes with both hands. The background appears to be a wooden floor with a light-colored wall. The image is likely from an animated show or movie.\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.516857862472534,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 13,
+      "start_time_seconds": 42.58218334316184,
+      "end_time_seconds": 44.167024642907336,
+      "duration_seconds": 1.5848412997454986
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A detailed illustration of a cluttered desk with various personal care items such as a purple comb, a purple bottle, a purple tube, a purple jar, a green bottle, a white tube, a black circular object, a white jar with an orange lid, and a yellow brush. The desk is set against a gray wall with a wooden floor. The scene is rendered in a cartoon style with a focus on the objects and their arrangement. The mood is joyful, and the setting is home. The content descriptors include characters, family, animation, and international. The location hints are urban and USA. The search keywords are family and animation.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\", \"Personal care items\", \"Desk\", \"Clutter\", \"Arrangement\", \"Items\", \"Color\", \"LocationHints\", \"LocationHints\", \"SearchKeywords\", \"Illustration style\", \"Illustrator\", \"Medium\", \"Date\", \"Location\", \"Time\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A detailed illustration of a cluttered desk with various personal care items such as a purple comb, a purple bottle, a purple tube, a purple jar, a green bottle, a white tube, a black circular object, a white jar with an orange lid, and a yellow brush. The desk is set against a gray wall with a wooden floor. The scene is rendered in a cartoon style with a focus on the objects and their arrangement. The mood is joyful, and the setting is home. The content descriptors include characters, family, animation, and international. The location hints are urban and USA. The search keywords are family and animation.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\", \"Personal care items\", \"Desk\", \"Clutter\", \"Arrangement\", \"Items\", \"Color\", \"LocationHints\", \"LocationHints\", \"SearchKeywords\", \"Illustration style\", \"Illustrator\", \"Medium\", \"Date\", \"Location\", \"Time\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"Purpose\", \"",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "A vibrant cartoon scene featuring a variety of personal care items on a wooden table, including a purple comb, a purple bottle, a green bottle, a white tube, a black circular object, a brown object, and a yellow brush. The scene is set against a gray wall and includes a hand reaching for a purple comb. The mood is joyful, and the setting is home. The content descriptors include characters, family, animation, and international. The location hints are urban and USA. The search keywords are family, animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation"
+            },
+            {
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 43.37460399303458
+        },
+        {
+          "ShotDescription": "A vibrant and colorful scene of a bathroom countertop with various toiletries, including a toothbrush, toothpaste, a hairbrush, a makeup brush, a bottle of lotion, a tube of toothpaste, a hair clip, and a hairbrush with a gold handle. The scene is set against a gray wall and a wooden countertop, with a purple and green striped towel hanging in the background. The mood is joyful and heartwarming, and the setting is a home. The content descriptors include characters, family, animation, and international. The location hints are urban and USA. The search keywords are family, animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation"
+            },
+            {
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Joyful"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 44.167024642907336
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.435671091079712,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 14,
+      "start_time_seconds": 44.167024642907336,
+      "end_time_seconds": 54.71873119121286,
+      "duration_seconds": 10.551706548305525
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a bathroom scene with a bathtub, a tiled wall, and a pink object in the corner. The scene has a cartoon style and is set in a home environment. The mood is joyful, and the setting context is family. The content descriptors include characters and the location hints are urban and USA. The search keywords are family and animation.\nHere's the cleaned-up JSON object:\n\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\",",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a bathroom scene with a bathtub, a tiled wall, and a pink object in the corner. The scene has a cartoon style and is set in a home environment. The mood is joyful, and the setting context is family. The content descriptors include characters and the location hints are urban and USA. The search keywords are family and animation.\nHere's the cleaned-up JSON object:\n\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"Content describers\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\",",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character is sitting in a bathtub with a pink donut on their head, holding a black book with stickers on it. The scene is set in a bathroom with a green tiled wall and a white bathtub. The mood is joyful and heartwarming. The content descriptors include characters, family, animation, and location hints. The location context is urban, and the search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 46.80495127998372
+        },
+        {
+          "ShotDescription": "A young girl with curly hair is sitting in a bathtub, wearing a pink dress with white polka dots. She is holding a pink cupcake with white frosting and sprinkles. The bathtub is white, and there is a black book with colorful stickers on the side. The background is a greenish-blue tiled wall. The scene is set in a bathroom.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 49.4428779170601
+        },
+        {
+          "ShotDescription": "A young girl with a big afro is sitting in a bathtub, looking sad. She is wearing a pink dress with white sleeves and a white collar. The bathtub has a black mat with colorful stickers on it. The background is a greenish-blue wall with white tiles. The image is in a cartoon style.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 4,
+          "frame_time": 52.08080455413648
+        },
+        {
+          "ShotDescription": "A young girl with a big smile is holding a laptop with stickers on it, while a gray cat sits on the edge of a sink beside her. The scene is set in a bathroom with a green wall and a white sink. The girl is wearing a pink and white top. The mood is joyful and the setting is family-oriented. The content descriptors include characters, genre, mood, setting context, location hints, and search keywords. The location hints suggest an urban USA setting. The image is a screenshot from an animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation"
+            },
+            {
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 5,
+          "frame_time": 54.71873119121286
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 34.73570990562439,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 15,
+      "start_time_seconds": 54.71873119121286,
+      "end_time_seconds": 56.17845344097845,
+      "duration_seconds": 1.4597222497655906
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A cartoon character is interacting with a computer screen displaying a hair care website, with the website's name 'Hair Love' prominently displayed. The character is holding up a finger as if to point at something on the screen. The scene is set in a home environment, with the character's hair styled in a curly afro. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The genre cues suggest a family-oriented theme, and the mood is joyful. The setting context is a home, and the content descriptors mention the website's name, the character's hair, and the setting of a home. The location hints suggest an urban USA setting.\",\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints Regulations\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a cartoon character interacting with a computer screen displaying a hair care website. The character is holding up a finger as if to point at something on the screen. The scene is set in a home environment, with the character's hair styled in a curly afro. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A cartoon character is interacting with a computer screen displaying a hair care website, with the website's name 'Hair Love' prominently displayed. The character is holding up a finger as if to point at something on the screen. The scene is set in a home environment, with the character's hair styled in a curly afro. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The genre cues suggest a family-oriented theme, and the mood is joyful. The setting context is a home, and the content descriptors mention the website's name, the character's hair, and the setting of a home. The location hints suggest an urban USA setting.\",\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints Regulations\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a cartoon character interacting with a computer screen displaying a hair care website. The character is holding up a finger as if to point at something on the screen. The scene is set in a home environment, with the character's hair styled in a curly afro. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A screenshot of a website called 'Hair Love' with a cartoon-style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a heartwarming mood and a focus on hair care. The setting context is home, and the location hints are urban and international. The search keywords include 'family', 'animation'.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a screenshot of a website called \"Hair Love\" with a cartoon-style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a heartwarming mood and a focus on hair care. The setting context is home, and the location hints are urban and international. The search keywords include 'family', 'animation'.\nHere is the cleaned-up and detailed JSON object based",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A screenshot of a website called 'Hair Love' with a cartoon-style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a heartwarming mood and a focus on hair care. The setting context is home, and the location hints are urban and international. The search keywords include 'family', 'animation'.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a screenshot of a website called \"Hair Love\" with a cartoon-style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a heartwarming mood and a focus on hair care. The setting context is home, and the location hints are urban and international. The search keywords include 'family', 'animation'.\nHere is the cleaned-up and detailed JSON object based",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A screenshot of a website called 'Hair Love' with a cartoon style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a focus on hair care and styling. The mood is joyful, and the setting context is urban. The location hints are regional and international, with the search keywords being family and animation.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a screenshot of a website called \"Hair Love\" with a cartoon style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a focus on hair care and styling. The mood is joyful, and the setting context is urban. The location hints are regional and international, with the search keywords being family and animation.\nThe image does not contain any additional information or context that",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A screenshot of a website called 'Hair Love' with a cartoon style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a focus on hair care and styling. The mood is joyful, and the setting context is urban. The location hints are regional and international, with the search keywords being family and animation.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image shows a screenshot of a website called \"Hair Love\" with a cartoon style animation of a woman with curly hair. The website features a \"Follow\" button, a \"Community\" section, and a \"Quick Links\" section. The content describes the website as family-oriented with a focus on hair care and styling. The mood is joyful, and the setting context is urban. The location hints are regional and international, with the search keywords being family and animation.\nThe image does not contain any additional information or context that",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.64076328277588,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 16,
+      "start_time_seconds": 56.17845344097845,
+      "end_time_seconds": 60.05714399035558,
+      "duration_seconds": 3.8786905493771258
+    },
+    "metadata": {
+      "ShotDescription": "A screenshot of a YouTube channel page for 'Hair Love', which has 649,810 followers and 1,817,633 plays. The channel features a cartoon style, family-oriented content, and is set in an urban USA. The content descriptors include characters, family, and a tutorial area. The location hints are urban and USA.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_Regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 56.17845344097845,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon-style animation of a woman with braids, showcasing different hairstyles such as braiding, healthy curls, and the perfect Afro. The scene is set in a home environment, with the woman smiling and looking at herself in a mirror. The image has a playful and joyful mood, with a focus on the diversity of hairstyles. The content descriptors include characters, family, and international locations, with the search keywords being 'family' and 'animation'.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 58.117798715667014
+        },
+        {
+          "ShotDescription": "A hand holding a cartoon character with braided hair, healthy curls, and the perfect Afro, set against a backdrop of other characters with similar hairstyles. The scene is set in an urban environment, with a focus on the joy and happiness of the characters. The mood is joyful, and the setting context is family. The content descriptors include characters, location hints, and search keywords. The genre cues are cartoon style, and the subgenre cues are family. The adjective theme is heartwarming, and the mood is joyful. The setting context is home, and the location hints are urban and USA. The search keywords are family, animation, and heartwarming.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints registional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 60.05714399035558
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.58038091659546,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 17,
+      "start_time_seconds": 60.05714399035558,
+      "end_time_seconds": 61.18321544017475,
+      "duration_seconds": 1.1260714498191717
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon character with a joyful expression, wearing a blue shirt, is standing in a room with a blue wall and a window in the background. The character has short black hair and is smiling. The scene is set in a home environment. The mood is joyful, and the setting context is family. The content descriptors include characters, location hints, and search keywords. The genre cues include cartoon style and family. The subgenre cues include heartwarming and urban. The adjective theme is joyful. The mood is joyful. The setting context is home. The content descriptors include characters, location hints, and search keywords.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints registional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 60.05714399035558,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon drawing of a smiling black woman with curly hair, wearing hoop earrings, and a blue top. The background is a light blue with a subtle pattern. The image has a playful and joyful mood, with a focus on the woman's happiness and the simplicity of the scene.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": "Joyful",
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 60.62017971526517
+        },
+        {
+          "ShotDescription": "A cartoon-style image of a smiling woman with curly hair, wearing hoop earrings, and a blue top. The image has a timestamp of 15:04 and is part of a video sequence. The scene is set in a home environment. The mood is joyful, and the setting context is family. The content descriptors include characters, animation, family, and home. The location hints are urban and international, and the search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 61.18321544017475
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.598976135253906,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 18,
+      "start_time_seconds": 61.18321544017475,
+      "end_time_seconds": 63.18512023985327,
+      "duration_seconds": 2.0019047996785204
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, while a cat is sitting next to her. The girl is smiling and looking at the camera. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a young girl with curly hair sitting at a desk with a laptop, smiling at the camera. She is accompanied by a cat sitting next to her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\nHere is the cleaned-up and detailed JSON object:\n\n{\n\"ShotDescription\": \"A young girl with curly hair",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, while a cat is sitting next to her. The girl is smiling and looking at the camera. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a young girl with curly hair sitting at a desk with a laptop, smiling at the camera. She is accompanied by a cat sitting next to her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\nHere is the cleaned-up and detailed JSON object:\n\n{\n\"ShotDescription\": \"A young girl with curly hair",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with curly hair and a pink dress is sitting at a desk with a laptop, while a cat with a green eye is pointing at her. The scene is set in a home with a green wall and a window. The mood is joyful, and the setting is family-oriented. The content descriptors include characters, location context, and search keywords. The location hints are regional and international. The image is an animation with a heartwarming theme.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 62.18416784001401
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon where a young girl with curly hair and a cat are sitting at a desk. The girl is looking at a laptop with various stickers on it, and the cat is sitting on the desk next to her. The scene has a warm and cozy atmosphere, with the girl and cat appearing to be engaged in a friendly interaction. The mood of the scene is joyful and heartwarming, and the setting is indoors, likely in a home environment. The content descriptors include \"Characters\", \"LocationHints_regional\", \"LocationHints_International\", \"SearchKeywords\", and \"SubgenreCues\".\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a scene from an animated cartoon where a young girl with curly hair and a cat are sitting at a desk. The girl is looking at a laptop with various stickers on it, and the cat is sitting on the desk next to her. The scene has a warm and cozy atmosphere, with the girl and cat appearing to be engaged in a friendly interaction. The mood of the scene is joyful and heartwarming, and the setting is indoors, likely in a home environment. The content descriptors include \"Characters\", \"LocationHints_regional\", \"LocationHints_International\", \"SearchKeywords\", and \"SubgenreCues\".\n{\n\"ShotDescription\": \"A one-sentence description of what you see\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.624385118484497,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 19,
+      "start_time_seconds": 63.18512023985327,
+      "end_time_seconds": 64.81166788959206,
+      "duration_seconds": 1.6265476497387894
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon character with curly hair and a blue top is smiling at the camera. The background is a light blue with a subtle pattern. The character has large hoop earrings and is looking directly at the viewer. The image has a timestamp of 15:04 in the bottom right corner. The image is likely from a video or animation. The scene is set in an urban environment. The mood is joyful, and the setting context is family. The content descriptors include characters, animation, family, and emotional state. The location hints are urban and international. The search keywords are family and animation.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_Regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 63.18512023985327,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with a joyful expression is depicted in a family setting, with a focus on the character's heartwarming and joyful mood.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 63.99839406472266
+        },
+        {
+          "ShotDescription": "A cartoon image of a smiling black woman with large afro hair, set against a light blue background with a play button in the bottom left corner and a timestamp in the bottom right corner.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 64.81166788959206
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.591392040252686,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 20,
+      "start_time_seconds": 64.81166788959206,
+      "end_time_seconds": 67.81452508910984,
+      "duration_seconds": 3.002857199517777
+    },
+    "metadata": {
+      "ShotDescription": "A joyful African American girl with curly hair is smiling while looking at a laptop with a cat sleeping beside her, suggesting a cozy and heartwarming scene.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_Regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 64.81166788959206,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A joyful African American girl with curly hair is smiling as she interacts with a gray cat on a white table, with a laptop in the background adorned with colorful stickers. The scene is set in a home environment, with a brick wall and a window in the background. The image is in a cartoon style with a focus on the characters and their interaction. The mood is joyful, and the setting is home. The content descriptors include \"family\", \"animation\", \"joyful\", and \"urban\". The location hints are \"Urban\" and \"USA\". The search keywords are \"family\", \"animation\".\",\n}\nI hope this helps! Let me know if you need anything else.\nThe image depicts a joyful interaction between a young African American girl and a gray cat on a white table. The girl is smiling and appears to be engaged in a friendly conversation with the cat. The laptop in the background has colorful stickers, adding a playful touch to the scene. The setting is indoors, with a brick wall and a window in the background. The mood is joyful, and the setting is home. The content descriptors include \"family\", \"animation\", \"joyful\", and \"urban\". The location hints are \"Urban\" and \"USA\". The search keywords are \"family\", \"animation\".\nThe image depicts a joyful interaction between a young African American girl and a gray cat on a white table. The girl is smiling and appears to be engaged in",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A joyful African American girl with curly hair is smiling as she interacts with a gray cat on a white table, with a laptop in the background adorned with colorful stickers. The scene is set in a home environment, with a brick wall and a window in the background. The image is in a cartoon style with a focus on the characters and their interaction. The mood is joyful, and the setting is home. The content descriptors include \"family\", \"animation\", \"joyful\", and \"urban\". The location hints are \"Urban\" and \"USA\". The search keywords are \"family\", \"animation\".\",\n}\nI hope this helps! Let me know if you need anything else.\nThe image depicts a joyful interaction between a young African American girl and a gray cat on a white table. The girl is smiling and appears to be engaged in a friendly conversation with the cat. The laptop in the background has colorful stickers, adding a playful touch to the scene. The setting is indoors, with a brick wall and a window in the background. The mood is joyful, and the setting is home. The content descriptors include \"family\", \"animation\", \"joyful\", and \"urban\". The location hints are \"Urban\" and \"USA\". The search keywords are \"family\", \"animation\".\nThe image depicts a joyful interaction between a young African American girl and a gray cat on a white table. The girl is smiling and appears to be engaged in",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, while a cat is sleeping beside her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a young girl with curly hair sitting at a desk with a laptop, and a cat is sleeping beside her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\n<start of description>\nThe image is a color illustration in a cartoon style, depicting a young girl with curly hair sitting at a desk. She has a joyful expression on her face and is looking at a",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, while a cat is sleeping beside her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints_Regional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nThe image depicts a young girl with curly hair sitting at a desk with a laptop, and a cat is sleeping beside her. The scene has a heartwarming and joyful mood, and the setting is a home. The content descriptors include \"family\", \"animation\", and \"joyful\". The location hints are urban and international, and the search keywords are \"family\" and \"animation\".\n<start of description>\nThe image is a color illustration in a cartoon style, depicting a young girl with curly hair sitting at a desk. She has a joyful expression on her face and is looking at a",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.89816904067993,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 21,
+      "start_time_seconds": 67.81452508910984,
+      "end_time_seconds": 69.31595368886873,
+      "duration_seconds": 1.5014285997588956
+    },
+    "metadata": {
+      "ShotDescription": "{\n\"ShotDescription\": \"A cartoon character with a joyful expression, set against a light blue background with a subtle rainbow effect. The character has large, curly black hair and is smiling, with a small mole on the left side of her face. The image is framed by a gray border and has a timestamp of 12:03 in the bottom right corner. The scene is likely from a video or animation, and the content descriptors include \"Family\", \"Animation\", \"Heartwarming\", \"Joyful\", \"Urban\", \"USA\", and \"SearchKeywords\". The location hints suggest it is set in an urban environment in the USA. The image is likely intended to evoke a sense of warmth and happiness.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints registional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nI hope this helps! Let me know if you have any other questions.\nI'm sorry, but I cannot generate a JSON object as I am not able to generate or interpret JSON data. However, I can provide you with a detailed description of the image and answer any questions you may",
+      "parsing_error": true,
+      "raw_response": "{\n\"ShotDescription\": \"A cartoon character with a joyful expression, set against a light blue background with a subtle rainbow effect. The character has large, curly black hair and is smiling, with a small mole on the left side of her face. The image is framed by a gray border and has a timestamp of 12:03 in the bottom right corner. The scene is likely from a video or animation, and the content descriptors include \"Family\", \"Animation\", \"Heartwarming\", \"Joyful\", \"Urban\", \"USA\", and \"SearchKeywords\". The location hints suggest it is set in an urban environment in the USA. The image is likely intended to evoke a sense of warmth and happiness.\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints registional\": [\"Urban\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]\n}\nI hope this helps! Let me know if you have any other questions.\nI'm sorry, but I cannot generate a JSON object as I am not able to generate or interpret JSON data. However, I can provide you with a detailed description of the image and answer any questions you may",
+      "frame_number": 1,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with a big smile, wearing a green shirt, is standing in a room with a blue wall and a window. The character has dark hair and is looking to the left. The room has a cozy and warm atmosphere.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints(regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 68.56523938898928
+        },
+        {
+          "ShotDescription": "A cartoon character with a joyful expression, holding a green bottle, set against a light blue background with a subtle pattern. The character has dark skin, black hair, and is wearing a green sleeveless top and gold hoop earrings. The image has a timestamp of 11:31 in the bottom right corner. The scene is set in an urban environment. The mood is joyful, and the setting context is home. The content descriptors include characters, family, animation, and location hints. The location hints are regional and international, and the search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 69.31595368886873
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.50165104866028,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 22,
+      "start_time_seconds": 69.31595368886873,
+      "end_time_seconds": 73.69512043816549,
+      "duration_seconds": 4.379166749296758
+    },
+    "metadata": {
+      "ShotDescription": "A young girl with curly hair is sitting at a desk, looking at a laptop with a cat beside her. The cat is gray and white, and both are looking at the laptop screen. The girl is wearing a pink top and has a thoughtful expression on her face. The scene is set in a home environment with a green wall in the background. The image has a warm and cozy feel, with the characters appearing to be in a comfortable and familiar setting. The mood is joyful and heartwarming, and the setting context is family. The content descriptors include characters, genre, mood, setting context, and location hints. The location hints are regional and international, and the search keywords are family and animation.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation"
+        },
+        {
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints registional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 69.31595368886873,
+      "additional_frames": [
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, smiling and giving a thumbs up. A cat is sitting next to her, looking at her with a curious expression. The scene is set in a home with a green brick wall and a white table. The image has a warm and joyful mood, with a focus on the girl's happiness and the cat's curiosity. The scene is set in an urban environment, with the girl and cat in a home setting. The content descriptors include \"family\", \"animation\", \"joyful\", \"Urban\", and \"USA\". The location hints are \"Urban\", \"USA\", and \"USA\". The search keywords include \"family\", \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints Regulations\": [\"Urban\", \"USA\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]}\nI hope this helps! Let me know if you have any other questions.\nPlease let me know if you need any further assistance.\nI'm sorry, but I cannot provide assistance with that.\nPlease let me know if you need any further",
+          "parsing_error": true,
+          "raw_response": "{\n\"ShotDescription\": \"A young girl with curly hair is sitting at a desk with a laptop, smiling and giving a thumbs up. A cat is sitting next to her, looking at her with a curious expression. The scene is set in a home with a green brick wall and a white table. The image has a warm and joyful mood, with a focus on the girl's happiness and the cat's curiosity. The scene is set in an urban environment, with the girl and cat in a home setting. The content descriptors include \"family\", \"animation\", \"joyful\", \"Urban\", and \"USA\". The location hints are \"Urban\", \"USA\", and \"USA\". The search keywords include \"family\", \"animation\".\",\n\"GenreCues\": [{\"genreHint\": \"Animation\", \"prominence_in_shot\": \"Cartoon style\"}],\n\"SubgenreCues\": [\"Family\"],\n\"AdjectiveTheme\": [\"Heartwarming\"],\n\"Mood\": [\"Joyful\"],\n\"SettingContext\": [\"Home\"],\n\"ContentDescriptor\": [\"Characters\"],\n\"LocationHints Regulations\": [\"Urban\", \"USA\"],\n\"LocationHints_International\": [\"USA\"],\n\"SearchKeywords\": [\"family\", \"animation\"]}\nI hope this helps! Let me know if you have any other questions.\nPlease let me know if you need any further assistance.\nI'm sorry, but I cannot provide assistance with that.\nPlease let me know if you need any further",
+          "frame_number": 2
+        },
+        {
+          "ShotDescription": "{\n\"ShotDescription\": \"A young girl with a big smile is sitting at a desk in front of a laptop, surrounded by a cozy home environment. The scene is filled with warm colors and a sense of comfort, evoking a feeling of happiness and contentment. The girl's expression suggests she is enjoying her time on the laptop, perhaps watching a favorite show or playing a game. The overall mood of the scene is joyful and heartwarming, capturing a moment of simple pleasure in everyday life. The setting is a home, with a comfortable and inviting atmosphere. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The genre cues suggest that this is an animation, and the subgenre cues indicate that it is a family-oriented scene. The adjective theme is \"Heartwarming\", and the mood is \"Joyful\". The setting context is \"Home\", and the content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The JSON object is a simple and straightforward description of the scene, capturing the essence of the image without any unnecessary details or embellishments. The JSON object is also formatted in a way that is easy to read and understand, with clear headings and subheadings. The JSON object is also formatted in a way that is easy to read and understand, with clear headings and subheadings. The JSON object is also formatted in a",
+          "raw_response": "{\n\"ShotDescription\": \"A young girl with a big smile is sitting at a desk in front of a laptop, surrounded by a cozy home environment. The scene is filled with warm colors and a sense of comfort, evoking a feeling of happiness and contentment. The girl's expression suggests she is enjoying her time on the laptop, perhaps watching a favorite show or playing a game. The overall mood of the scene is joyful and heartwarming, capturing a moment of simple pleasure in everyday life. The setting is a home, with a comfortable and inviting atmosphere. The content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The genre cues suggest that this is an animation, and the subgenre cues indicate that it is a family-oriented scene. The adjective theme is \"Heartwarming\", and the mood is \"Joyful\". The setting context is \"Home\", and the content descriptors include \"Characters\", \"LocationHints Regulations\", \"LocationHints International\", \"SearchKeywords\", and \"Mood\". The JSON object is a simple and straightforward description of the scene, capturing the essence of the image without any unnecessary details or embellishments. The JSON object is also formatted in a way that is easy to read and understand, with clear headings and subheadings. The JSON object is also formatted in a way that is easy to read and understand, with clear headings and subheadings. The JSON object is also formatted in a",
+          "frame_number": 3
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.486326217651367,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 23,
+      "start_time_seconds": 73.69512043816549,
+      "end_time_seconds": 75.279961737911,
+      "duration_seconds": 1.5848412997455057
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon character with a joyful expression, holding a green bottle, set against a light blue background with a white border. The character has dark skin, black hair, and is wearing a green tank top. The image has a timestamp of 11:31 in the bottom right corner. The scene is set in an urban environment. The content descriptors include characters, animation, family, heartwarming, joyful, home, international, USA, and search keywords. The location hints are regional and international. The image has a timestamp of 11:31 in the bottom right corner.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints registional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 73.69512043816549,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with a joyful expression, wearing a red top and gold hoop earrings, is shown against a blue sky background.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 74.48754108803824
+        },
+        {
+          "ShotDescription": "A cartoon character with a joyful expression is depicted in a family setting, with a focus on the character's face and upper body. The scene is set in a home environment, with a clear sky in the background. The character is smiling and appears to be in a moment of happiness or excitement. The image is in a cartoon style, with a focus on the character's emotions and expressions. The scene is likely to evoke feelings of warmth and happiness, and may be used in a family-oriented context. The image is likely to be found in a family-oriented website or app.",
+          "GenreCues": [
+            {
+              "genre_hint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "Content describers": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 75.279961737911
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.639052152633667,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 24,
+      "start_time_seconds": 75.279961737911,
+      "end_time_seconds": 75.94726333780383,
+      "duration_seconds": 0.6673015998928378
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon character with a joyful expression is depicted in a family setting, with a clear sky in the background.",
+      "GenreCues": [
+        {
+          "genreHint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 75.279961737911,
+      "additional_frames": [
+        {
+          "ShotDescription": "A cartoon character with a joyful expression is depicted in a family setting, with a focus on the character's emotions and the overall mood of the scene.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 75.61361253785742
+        },
+        {
+          "ShotDescription": "A cartoon character with a joyful expression is depicted in a family setting. The character has a heartwarming mood and is set in an urban environment. The content descriptor is 'Characters', the location hints are 'Family', and the search keywords are 'family', 'animation'.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation",
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 75.94726333780383
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 19.537605047225952,
+    "success": true,
+    "error_message": null
+  },
+  {
+    "shot_info": {
+      "shot_number": 25,
+      "start_time_seconds": 75.94726333780383,
+      "end_time_seconds": 77.74063638751583,
+      "duration_seconds": 1.7933730497120024
+    },
+    "metadata": {
+      "ShotDescription": "A cartoon girl with a big afro is sitting at a desk in front of a laptop, surrounded by stickers. The scene is set in a home environment, with a brick wall in the background. The girl is smiling and appears to be happy. The image is in a cartoon style and has a family theme. The mood is joyful, and the setting is home. The content descriptors include characters, location context, and search keywords. The location hints are regional and international. The image is a screenshot from a video game.",
+      "GenreCues": [
+        {
+          "genre_hint": "Animation",
+          "prominence_in_shot": "Cartoon style"
+        }
+      ],
+      "SubgenreCues": [
+        "Family"
+      ],
+      "AdjectiveTheme": [
+        "Heartwarming"
+      ],
+      "Mood": [
+        "Joyful"
+      ],
+      "SettingContext": [
+        "Home"
+      ],
+      "ContentDescriptor": [
+        "Characters"
+      ],
+      "LocationHints_Regional": [
+        "Urban"
+      ],
+      "LocationHints_International": [
+        "USA"
+      ],
+      "SearchKeywords": [
+        "family",
+        "animation"
+      ],
+      "frame_number": 1,
+      "frame_time": 75.94726333780383,
+      "additional_frames": [
+        {
+          "ShotDescription": "A young girl with a big afro is sitting at a desk in a home, looking at a laptop with a colorful sticker on it. The girl is wearing a pink apron over a white shirt. The laptop has a variety of stickers on it, including a rainbow heart, a snowflake, and a star. The background is a simple gray wall with a window. The scene has a warm and cozy feel, with the girl appearing to be happy and content. The mood is joyful and heartwarming, and the setting is a home. The content descriptors include characters, genre, mood, setting context, content descriptors, location hints, and search keywords. The location hints suggest that the scene takes place in an urban area in the USA.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation"
+            },
+            {
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_Regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 2,
+          "frame_time": 76.84394986265983
+        },
+        {
+          "ShotDescription": "A young girl with a big smile is sitting at a desk in front of a laptop, surrounded by stickers. The scene is set in a home environment with a brick wall in the background. The girl is wearing a pink apron over a white shirt and has a large, curly afro. The laptop screen displays a colorful array of stickers, including a heart, a rainbow, and a snowman. The mood is joyful, and the setting is a home. The content descriptors include characters, family, animation, and a heartwarming mood. The location hints are urban and international, and the search keywords are family and animation.",
+          "GenreCues": [
+            {
+              "genreHint": "Animation"
+            },
+            {
+              "prominence_in_shot": "Cartoon style"
+            }
+          ],
+          "SubgenreCues": [
+            "Family"
+          ],
+          "AdjectiveTheme": [
+            "Heartwarming"
+          ],
+          "Mood": [
+            "Joyful"
+          ],
+          "SettingContext": [
+            "Home"
+          ],
+          "ContentDescriptor": [
+            "Characters"
+          ],
+          "LocationHints_regional": [
+            "Urban"
+          ],
+          "LocationHints_International": [
+            "USA"
+          ],
+          "SearchKeywords": [
+            "family",
+            "animation"
+          ],
+          "frame_number": 3,
+          "frame_time": 77.74063638751583
+        }
+      ]
+    },
+    "model_name": "FastVLM",
+    "processing_time_seconds": 20.924050092697144,
+    "success": true,
+    "error_message": null
+  }
+]

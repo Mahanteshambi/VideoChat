@@ -129,7 +129,9 @@ dmypy.json
 .pyre/
 
 # VideoChat specific
-outputs/
+# Allow showcase results in outputs/ but ignore database files
+outputs/vector_db/
+outputs/*/vector_db/
 outputs_*/
 chroma_db/
 vector_db/
