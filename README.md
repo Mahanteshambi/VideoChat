@@ -34,17 +34,32 @@ uv sync --dev
 ### Process a Video
 
 ```bash
-# Index a video with both models
+# Index a video with all available models
 uv run videoindex process path/to/your/video.mp4
 
 # Index with specific models only
 uv run videoindex process path/to/your/video.mp4 --models FastVLM,Qwen3
+
+# Limit number of shots for testing
+uv run videoindex process path/to/your/video.mp4 --max-shots 25
+
+# Resize frames before processing (faster, lower quality)
+uv run videoindex process path/to/your/video.mp4 --max-frame-side 512
 
 # Custom output directory
 uv run videoindex process path/to/your/video.mp4 --output ./my_results
 
 # Skip vector database storage
 uv run videoindex process path/to/your/video.mp4 --no-vector-db
+
+# Skip JSON file output
+uv run videoindex process path/to/your/video.mp4 --no-json
+
+# Use custom configuration file
+uv run videoindex process path/to/your/video.mp4 --config config.json
+
+# Use custom vector database collection
+uv run videoindex process path/to/your/video.mp4 --collection my_collection
 ```
 
 ### Search Indexed Videos
@@ -53,11 +68,17 @@ uv run videoindex process path/to/your/video.mp4 --no-vector-db
 # Search for specific content
 uv run videoindex search "action scene with car chase"
 
-# Filter by model
+# Filter results by model
 uv run videoindex search "romantic scene" --model FastVLM
 
 # Get more results
 uv run videoindex search "outdoor landscape" --top-k 20
+
+# Use custom output directory (where vector DB is stored)
+uv run videoindex search "query" --output ./my_results
+
+# Use custom collection
+uv run videoindex search "query" --collection my_collection
 ```
 
 ### View Statistics
@@ -66,8 +87,11 @@ uv run videoindex search "outdoor landscape" --top-k 20
 # Show database statistics
 uv run videoindex stats
 
-# Show with custom collection
+# Show statistics for custom collection
 uv run videoindex stats --collection my_annotations
+
+# Use custom output directory
+uv run videoindex stats --output ./my_results
 ```
 
 ### Configuration Management
@@ -81,34 +105,31 @@ uv run videoindex config --save config.json
 
 # Load configuration from file
 uv run videoindex config --load config.json
+```
 
-# List available models
+### List Available Models
+
+```bash
+# List all available models and their settings
 uv run videoindex list-models
 ```
 
-## Project Structure
+### Compare Models (Python Examples)
 
+The repository includes example scripts for comparing models:
+
+```bash
+# Basic usage example
+python examples/basic_usage.py
+
+# Compare multiple models on the same video
+python examples/compare_models.py path/to/video.mp4
+
+# Compare specific models
+python examples/compare_models.py path/to/video.mp4 FastVLM,Qwen3
 ```
-src/videoindex/
-├── __init__.py
-├── cli.py                 # Command-line interface
-├── annotators/           # Video annotation models
-│   ├── __init__.py
-│   ├── base.py          # Base annotator interface
-│   ├── fastvlm.py       # FastVLM implementation
-│   ├── quen2.py         # Qwen2-VL implementation
-│   └── qwen3.py         # Qwen3-VL implementation
-├── vector_db/           # Vector database integration
-│   ├── __init__.py
-│   ├── base.py          # Base vector DB interface
-│   └── chroma.py        # ChromaDB implementation
-├── processing/          # Video processing pipeline
-│   ├── __init__.py
-│   └── pipeline.py      # Main processing pipeline
-└── config/              # Configuration management
-    ├── __init__.py
-    └── settings.py      # Settings and configuration
-```
+
+These examples demonstrate how to use the Python API directly and compare model performance.
 
 ## Configuration
 
@@ -169,9 +190,16 @@ Create a `config.json` file to customize settings:
 }
 ```
 
-## Output Format
+## Output Files
 
-### JSON Results
+Results are saved to the output directory (default: `./outputs`):
+
+- `{video_name}_{model_name}_results.json` - Individual model results
+- `{video_name}_combined_results.json` - Combined results when comparing models
+- `vector_db/` - ChromaDB database files for semantic search
+- `comparison/` - Comparison CSV files (if generated separately)
+
+### JSON Results Format
 
 Each model produces a JSON file with the following structure:
 
@@ -243,6 +271,61 @@ uv run mypy src/
 - PyTorch 2.0+
 - CUDA/MPS support (optional, for GPU acceleration)
 - Sufficient disk space for model downloads and vector database
+
+## Command Reference
+
+### `process` - Index Videos
+
+**Usage:** `uv run videoindex process <video_path> [OPTIONS]`
+
+**Arguments:**
+- `video_path` - Path to the video file to index
+
+**Options:**
+- `--output, -o` - Output directory (default: `./outputs`)
+- `--models, -m` - Comma-separated list of models (FastVLM, Quen2, Qwen3)
+- `--max-shots` - Maximum number of shots to process
+- `--max-frame-side` - Resize frames so max(width,height)=N before inference
+- `--no-vector-db` - Skip saving to vector database
+- `--no-json` - Skip saving JSON results
+- `--collection, -c` - Vector database collection name (default: `video_annotations`)
+- `--config` - Path to configuration file
+
+### `search` - Search Indexed Videos
+
+**Usage:** `uv run videoindex search <query> [OPTIONS]`
+
+**Arguments:**
+- `query` - Natural language search query
+
+**Options:**
+- `--output, -o` - Output directory containing vector database (default: `./outputs`)
+- `--collection, -c` - Vector database collection name (default: `video_annotations`)
+- `--model` - Filter results by model name
+- `--top-k` - Number of results to return (default: 10)
+
+### `stats` - Database Statistics
+
+**Usage:** `uv run videoindex stats [OPTIONS]`
+
+**Options:**
+- `--output, -o` - Output directory containing vector database (default: `./outputs`)
+- `--collection, -c` - Vector database collection name (default: `video_annotations`)
+
+### `config` - Configuration Management
+
+**Usage:** `uv run videoindex config [OPTIONS]`
+
+**Options:**
+- `--show` - Show current configuration
+- `--save <file>` - Save configuration to file
+- `--load <file>` - Load configuration from file
+
+### `list-models` - List Available Models
+
+**Usage:** `uv run videoindex list-models`
+
+Displays all available models with their configuration (enabled status, max tokens, temperature, etc.)
 
 ## Model Information
 
